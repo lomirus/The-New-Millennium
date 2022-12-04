@@ -5625,10 +5625,6 @@ x83A6B2 xB82E36 }
 			country = c:CRO
 			owned_provinces = { x51A021 x106020 x13318D x906121 x80CF00 x1A4DF9 }
 		}
-		create_state = {
-			country = c:SER
-			owned_provinces = { x902161 }
-		}
 		add_homeland = croat
 		add_homeland = serb		
 	}	
@@ -5743,11 +5739,7 @@ x83A6B2 xB82E36 }
 	s:STATE_DELVIDEK = {
 		create_state = {
 			country = c:SER
-			owned_provinces = { x77143D x9E1AD1 x11E021 x626998 xC347D8 }
-		}
-		create_state = {
-			country = c:CRO
-			owned_provinces = { x901B70 }
+			owned_provinces = { x77143D x9E1AD1 x11E021 x626998 xC347D8 x902161 x901B70 }
 		}
 		add_homeland = hungarian
 		add_homeland = serb

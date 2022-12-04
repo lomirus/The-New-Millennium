@@ -429,7 +429,7 @@
 		}
 	}
 	s:STATE_BOSNIA = {
-		region_state:BBOS = {
+		region_state:BOS = {
 			create_pop = {
 				culture = bosniak
 				size = 304908

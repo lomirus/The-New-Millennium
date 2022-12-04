@@ -71,11 +71,7 @@
 		region_state:NOR = {
 			create_pop = {
 				culture = norwegian
-				size = 1169000
-			}
-			create_pop = {
-				culture = sami
-				size = 50000
+				size = 1155579
 			}
 		}
 	}
@@ -83,7 +79,7 @@
 		region_state:NOR = {
 			create_pop = {
 				culture = norwegian
-				size = 1686000
+				size = 1690928
 			}
 		}
 	}
@@ -91,7 +87,7 @@
 		region_state:ICL = {
 			create_pop = {
 				culture = icelandic
-				size = 364000
+				size = 281205
 			}
 		}
 	}
@@ -99,17 +95,7 @@
 		region_state:GRN = {
 			create_pop = {
 				culture = danish
-				size = 5600
-			}
-			create_pop = {
-				culture = inuit
-				religion = protestant
-				size = 37800
-			}
-			create_pop = {
-				culture = inuit
-				religion = animist
-				size = 12600
+				size = 56184
 			}
 		}
 	}
@@ -117,33 +103,26 @@
 		region_state:FIN = {
 			create_pop = {
 				culture = finnish
-				size = 3952000
+				size = 3900564
 			}
 		}
 	}
 	s:STATE_WEST_KARELIA = {
-		region_state:FIN = { # Pohjois-Karjala, Etela-Karjala, Kymenlaakso
-			create_pop = {
-				culture = finnish
-				size = 453000
-			}
-		}
 		region_state:RUS = {
 			create_pop = {
 				culture = russian
-				size = 5
+				size = 500000
 			}
 		}
 	}
 	s:STATE_ALAND = {
 		region_state:FIN = {
 			create_pop = {
-				culture = swedish
-				size = 28500
-			}
-			create_pop = {
-				culture = finnish
-				size = 1500
+				cultures = {
+					swedish = 0.68
+					finnish = 0.32
+				}
+				size = 28233
 			}
 		}
 	}
@@ -151,7 +130,7 @@
 		region_state:FIN = {
 			create_pop = {
 				culture = finnish
-				size = 1090000
+				size = 1247412
 			}
 			create_pop = {
 				culture = sami
@@ -163,21 +142,7 @@
 		region_state:GBR = {
 			create_pop = {
 				culture = british
-				size = 2657596
-			}
-			create_pop = {
-				culture = british
-				religion = jewish
-				size = 20000
-			}
-			create_pop = {
-				culture = british
-				religion = catholic
-				size = 100000
-			}
-			create_pop = {
-				culture = irish
-				size = 28400
+				size = 17080449
 			}
 		}
 	}
@@ -185,16 +150,7 @@
 		region_state:GBR = {
 			create_pop = {
 				culture = british
-				size = 1986404
-			}
-			create_pop = {
-				culture = british
-				religion = catholic
-				size = 85700
-			}
-			create_pop = {
-				culture = irish
-				size = 80700
+				size = 6624365
 			}
 		}
 	}
@@ -202,11 +158,7 @@
 		region_state:GBR = {
 			create_pop = {
 				culture = welsh
-				size = 778557
-			}
-			create_pop = {
-				culture = british
-				size = 194639
+				size = 2906870
 			}
 		}
 	}
@@ -214,16 +166,7 @@
 		region_state:GBR = {
 			create_pop = {
 				culture = british
-				size = 2026592
-			}
-			create_pop = {
-				culture = irish
-				size = 16000
-			}
-			create_pop = {
-				culture = british
-				religion = catholic
-				size = 48000
+				size = 7133107
 			}
 		}
 	}
@@ -231,12 +174,7 @@
 		region_state:GBR = {
 			create_pop = {
 				culture = scottish
-				size = 672396
-			}
-			create_pop = {
-				culture = scottish
-				religion = catholic
-				size = 8000
+				size = 594281
 			}
 		}
 	}
@@ -244,16 +182,7 @@
 		region_state:GBR = {
 			create_pop = {
 				culture = british
-				size = 2543604
-			}
-			create_pop = {
-				culture = british
-				religion = catholic
-				size = 24400
-			}
-			create_pop = {
-				culture = irish
-				size = 12000
+				size = 11049414
 			}
 		}
 	}
@@ -261,12 +190,7 @@
 		region_state:GBR = {
 			create_pop = {
 				culture = british
-				size = 1565208
-			}
-			create_pop = {
-				culture = british
-				religion = catholic
-				size = 8000
+				size = 2679204
 			}
 		}
 	}
@@ -274,16 +198,7 @@
 		region_state:GBR = {
 			create_pop = {
 				culture = british
-				size = 1969600
-			}
-			create_pop = {
-				culture = british
-				religion = catholic
-				size = 12400
-			}
-			create_pop = {
-				culture = irish
-				size = 4400
+				size = 4632694
 			}
 		}
 	}
@@ -291,16 +206,7 @@
 		region_state:GBR = {
 			create_pop = {
 				culture = scottish
-				size = 1397200
-			}
-			create_pop = {
-				culture = scottish
-				religion = catholic
-				size = 188000
-			}
-			create_pop = {
-				culture = irish
-				size = 52400
+				size = 4468659
 			}
 		}
 	}
@@ -308,31 +214,15 @@
 		region_state:GBR = {
 			create_pop = {
 				culture = irish # Catholics
-				size = 1183122
-			}
-			create_pop = {
-				culture = british # Anglicans
-				size = 407111
-			}
-			create_pop = {
-				culture = irish # Anglicans
-				religion = protestant
-				size = 71843
-			}
-			create_pop = {
-				culture = scottish  # Presbyterians and Methodists
-				size = 575084
-			}
-			create_pop = {
-				culture = irish  # Presbyterians and Methodists
-				religion = protestant
-				size = 101485
+				size = 1722585
 			}
 		}
 		region_state:IRE = {
 			create_pop = {
 				culture = irish
 				size = 165000
+			}
+		}
 	}
 	s:STATE_MUNSTER = {
 		region_state:IRE = {

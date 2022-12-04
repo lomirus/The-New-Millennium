@@ -48,6 +48,70 @@ ANG = {
 	}
 }
 
+BOS = { # Bosnia
+	# Dayton flag
+	
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	color2 = "yellow"
+	
+	colored_emblem = {
+		texture = "ce_triangle.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { scale = { 0.6 1.1 } position = { 0.5 0.5 } }	
+	}
+	
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 0.20 0.20 } position = { 0.15 0.00 } }
+	}
+
+    colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 0.20 0.20 } position = { 0.23 0.17 } }
+	}	
+	
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 0.20 0.20 } position = { 0.31 0.34 } }
+	}	
+	
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 0.20 0.20 } position = { 0.39 0.50 } }
+	}	
+	
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 0.20 0.20 } position = { 0.47 0.66 } }
+	}	
+	
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 0.20 0.20 } position = { 0.55 0.82 } }
+	}	
+	
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 0.20 0.20 } position = { 0.63 0.98 } }
+	}	
+}
+
 CNG = {
 	pattern = "pattern_solid.tga"
 	color1 = "blue_light"

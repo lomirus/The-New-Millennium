@@ -1,0 +1,27 @@
+je_leave_the_eu = {
+	icon = "gfx/interface/icons/event_icons/event_portrait.dds"
+	possible = {
+		root = {
+			has_variable = leaving_eu
+		}
+	}
+	is_shown_when_inactive = {
+		root = {
+			has_modifier = european_union_member
+		}
+	}
+	timeout = 730
+	can_deactivate = yes
+	on_timeout = {
+		remove_modifier = european_union_member
+		remove_diplomatic_pact = {
+			country = c:EUM
+			type = customs_union
+		}
+		remove_variable = leaving_eu
+	}
+	weight = 500
+	inheritable = no
+	progressbar = yes
+	should_be_pinned_by_default = yes
+}

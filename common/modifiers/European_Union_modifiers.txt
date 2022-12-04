@@ -1,0 +1,8 @@
+european_union_member = {
+	icon = gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds
+	country_bureaucracy_mult = -0.05
+}
+european_union_leader = {
+	icon = gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds
+	country_bureaucracy_mult = -0.05
+}

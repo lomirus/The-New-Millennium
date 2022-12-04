@@ -1,0 +1,704 @@
+﻿POPS = {
+	s:STATE_DISTRICT_OF_COLUMBIA = {
+		region_state:USA = { 
+			create_pop = {
+				culture = yankee
+				size = 572059
+			}		
+		}
+	}
+	s:STATE_LOUISIANA = {
+		region_state:USA = {
+			create_pop = {
+				culture = cajun
+				size = 4468976
+			}
+		}
+	}
+	s:STATE_NEW_YORK = {
+		region_state:USA = {
+			create_pop = {
+				cultures = {
+					yankee = 0.64
+					afro_american = 0.14
+					caribeno = 0.08
+					han = 0.04
+					bengali = 0.02
+					mexican = 0.02
+					central_american = 0.02
+					afro_caribeno = 0.02
+					korean = 0.01
+					filipino = 0.01
+				}
+				size = 18976457
+			}
+		}
+	}
+	s:STATE_VIRGINIA = {
+		region_state:USA = {
+			create_pop = {
+				culture = dixie
+				size = 7078515
+			}
+		}
+	}
+	s:STATE_ALASKA = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 627963
+			}
+		}
+	}
+	s:STATE_WASHINGTON = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 5894121
+			}		
+		}
+	}
+	s:STATE_OREGON = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 3421399
+			}			
+		}
+	}
+	s:STATE_IDAHO = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 1293953
+			}
+		}
+	}
+	s:STATE_COLORADO = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 4301261
+			}
+		}
+	}
+	s:STATE_WYOMING = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 493782
+			}
+		}
+	}
+	s:STATE_MONTANA = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 902195
+			}
+		}
+	}
+	s:STATE_NORTH_DAKOTA = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 642200
+			}
+		}
+	}
+	s:STATE_SOUTH_DAKOTA = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 754844
+			}
+		}
+	}
+	s:STATE_NEBRASKA = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 1711263
+			}
+		}
+	}
+	s:STATE_KANSAS = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 2688418
+			}
+		}
+	}
+	s:STATE_OKLAHOMA = {
+		region_state:USA = {
+			create_pop = {
+				culture = dixie
+				size = 3450654
+			}
+		}
+	}
+	s:STATE_ARKANSAS = {
+		region_state:USA = {
+			create_pop = {
+				culture = dixie
+				size = 2673400
+			}
+		}
+	}
+	s:STATE_MISSOURI = {
+		region_state:USA = {
+			create_pop = {
+				cultures = {
+					yankee = 0.66
+					dixie = 0.34
+				}
+				size = 5595211
+			}
+		}
+	}
+	s:STATE_IOWA = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 2926324
+			}
+		}
+	}
+	s:STATE_MINNESOTA = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 4919479
+			}
+		}
+	}
+	s:STATE_WISCONSIN = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 5363675
+			}
+		}
+	}
+	s:STATE_INDIANA = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 6080485
+			}
+		}
+	}
+	s:STATE_MICHIGAN = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 9938444
+			}
+		}
+	}
+	s:STATE_OHIO = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 11353140
+			}
+		}
+	}
+	s:STATE_KENTUCKY = {
+		region_state:USA = {
+			create_pop = {
+				cultures = {
+					dixie = 0.24
+					yankee = 0.76
+				}
+				size = 4041769
+			}
+		}
+	}
+	s:STATE_TENNESSEE = {
+		region_state:USA = {
+			create_pop = {
+				culture = dixie
+				size = 5689283
+			}
+		}
+	}
+	s:STATE_MISSISSIPPI = {
+		region_state:USA = {
+			create_pop = {
+				culture = dixie
+				size = 2844658
+			}
+		}
+	}
+	s:STATE_ALABAMA = {
+		region_state:USA = {
+			create_pop = {
+				culture = dixie
+				size = 4447100
+			}
+		}
+	}
+	s:STATE_FLORIDA = {
+		region_state:USA = {
+			create_pop = {
+				cultures = {
+					dixie = 0.60 # actually 0.52
+					afro_american = 0.16
+					caribeno = 0.09
+					afro_caribeno = 0.05
+					central_american = 0.03
+					mexican = 0.03
+					spanish = 0.01
+					bengali = 0.01
+					han = 0.01
+					filipino = 0.01
+				}
+				size = 15982378
+			}
+		}
+	}
+	s:STATE_GEORGIA = {
+		region_state:USA = {
+			create_pop = {
+				culture = dixie
+				size = 8186453
+			}
+		}
+	}
+	s:STATE_WEST_VIRGINIA = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 1808344
+			}
+		}
+	}
+	s:STATE_MARYLAND = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 5296486
+			}
+		}
+	}
+
+	s:STATE_DELAWARE = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 783600
+			}
+		}
+	}
+
+	s:STATE_PENNSYLVANIA = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 12281054
+			}
+		}
+	}
+	s:STATE_NEW_JERSEY = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 8414350
+			}
+		}
+	}
+	s:STATE_ILLINOIS = {
+		region_state:USA = {
+			create_pop = {
+				cultures = {
+					yankee = 0.71
+					afro_american = 0.14
+					mexican = 0.13
+					bengali = 0.02
+				}
+				size = 12419293
+			}
+		}
+	}
+	s:STATE_RHODE_ISLAND = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 1048319
+			}
+		}
+	}
+	s:STATE_CONNECTICUT = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 3405565
+			}
+		}
+	}
+	s:STATE_MASSACHUSETTS = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 6349097
+			}
+		}
+	}
+	s:STATE_NEW_HAMPSHIRE = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 1235786
+			}
+		}
+	}
+	s:STATE_VERMONT = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 608827
+			}
+		}
+	}
+	s:STATE_MAINE = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 1274923
+			}
+		}
+	}
+	s:STATE_NORTH_CAROLINA = {
+		region_state:USA = {
+			create_pop = {
+				culture = dixie
+				size = 8049313
+			}
+		}
+	}
+	s:STATE_UTAH = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 2233169
+			}
+		}
+	}
+	s:STATE_SOUTH_CAROLINA = {
+		region_state:USA = {
+			create_pop = {
+				culture = dixie
+				size = 4012012
+			}
+		}
+	}
+	s:STATE_HAWAIIAN_ISLANDS = {
+		region_state:USA = {
+			create_pop = {
+				cultures = {
+					yankee = 0.47
+					filipino = 0.15
+					japanese = 0.12
+					hawaiian = 0.06
+					han = 0.04
+					mexican = 0.03
+					caribeno = 0.03
+					korean = 0.02
+					spanish = 0.02
+					afro_american = 0.02
+					vietnamese = 0.01
+					afro_caribeno = 0.01
+					polynesian = 0.01
+				}
+				size = 1211537
+		}
+	}
+	s:STATE_ONTARIO = {
+		region_state:CAN = {
+			create_pop = {
+				culture = anglo_canadian
+				size = 11680000
+			}
+		}
+	}
+	s:STATE_NEW_BRUNSWICK = {
+		region_state:CAN = {
+			create_pop = {
+				culture = anglo_canadian
+				size = 1820808
+			}
+		}
+	}
+	s:STATE_QUEBEC = {
+		region_state:CAN = {
+			create_pop = {
+				culture = franco_canadian
+				size = 7357000
+			}
+		}
+	}
+	s:STATE_NEWFOUNDLAND = {
+		region_state:CAN = {
+			create_pop = {
+				culture = anglo_canadian
+				size = 527966
+			}
+		}
+	}
+	s:STATE_ALBERTA = {
+		region_state:CAN = {
+			create_pop = {
+				culture = anglo_canadian
+				size = 3004000
+			}		
+		}
+	}
+	s:STATE_BRITISH_COLUMBIA = {
+		region_state:CAN = {
+			create_pop = {
+				culture = anglo_canadian
+				size = 4039000
+			}		
+		}
+	}
+	s:STATE_SASKATCHEWAN = {
+		region_state:CAN = {
+			create_pop = {
+				culture = anglo_canadian
+				size = 1008000
+			}
+		}
+	}
+	s:STATE_MANITOBA = {
+		region_state:CAN = {
+			create_pop = {
+				culture = anglo_canadian
+				size = 1147000
+			}		
+		}
+	}
+	s:STATE_YUKON_TERRITORY = {
+		region_state:CAN = {
+			create_pop = {
+				culture = athabaskan
+				size = 30431
+			}
+		}
+	}
+	s:STATE_NORTHWEST_TERRITORIES = {
+		region_state:CAN = {
+			create_pop = {
+				culture = athabaskan
+				size = 40480
+			}
+		}
+	}
+	s:STATE_NUNAVUT = {
+		region_state:CAN = {
+			create_pop = {
+				culture = inuit
+				size = 27498
+			}
+		}
+	}
+	s:STATE_BERMUDA = {
+		region_state:GBR = {
+			create_pop = {
+				culture = afro_caribbean
+				size = 61833
+			}
+		}
+	}
+	s:STATE_TEXAS = {
+		region_state:USA = {
+			create_pop = {
+				culture = dixie
+				size = 20851820
+			}
+		}
+	}
+	s:STATE_NEVADA = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 1998257
+			}
+		}
+	}
+	s:STATE_ARIZONA = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 5130632
+			}
+		}
+	}
+	s:STATE_NEW_MEXICO = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 1819046
+			}
+		}
+	}
+	s:STATE_CALIFORNIA = {
+		region_state:USA = {
+			create_pop = {
+				cultures = {
+					yankee = 0.52
+					mexican = 0.32
+					afro_american = 0.11
+					central_american = 0.04
+					spanish = 0.01
+				}
+				size = 33871648
+			}
+		}
+	}
+	s:STATE_SONORA = {
+		region_state:MEX = {
+			create_pop = {
+				culture = mexican
+				size = 2216969
+			}
+		}
+	}
+	s:STATE_CHIHUAHUA = { 
+		region_state:MEX = {
+			create_pop = {
+				culture = mexican
+				size = 3052907
+			}
+		}
+	}
+	s:STATE_RIO_GRANDE = { #Coahuila, Nuevo Leon, and Tamaulipas
+		region_state:MEX = {
+			create_pop = {
+				culture = mexican
+				size = 8885433
+			}
+		}
+	}
+	s:STATE_VERACRUZ = { 
+		region_state:MEX = {
+			create_pop = {
+				culture = mexican
+				size = 6908975	
+			}		
+		}
+	}
+	s:STATE_DURANGO = { 
+		region_state:MEX = {
+			create_pop = {
+				culture = mexican
+				size = 1445900 
+			}
+		}
+	}
+	s:STATE_SINALOA = { 
+		region_state:MEX = {
+			create_pop = {
+				culture = mexican
+				size = 2536844
+			}
+		}
+	}
+	# San Luis Potosi:	302390 in 1830, 326559 in 1840, so averaging out to 314475
+	# Guanajuato:		442916 in 1830, 591401 in 1840, so averaging out to 517159
+	# Queretaro:		114437 in 1830, 122962 in 1840, so averaging out to 118699
+	# working total number of 950333
+	s:STATE_BAJIO = {
+		region_state:MEX = {
+			create_pop = {
+				culture = mexican
+				size = 8366698
+			}
+		}
+	}
+	# Yucatan proper: 	417947 in 1830, 420726 in 1840, so averaging out to 419337
+	# Campeche:			64053 in 1830, 72707 in 1840, so averaging out to 68380
+	# Tabasco:			58518 in 1830, 63919 in 1840, so averaging out to 61219
+	# working total number of 548936
+	s:STATE_YUCATAN = { 
+		region_state:MEX = {
+			create_pop = {
+				culture = mexican
+				size = 5115691
+			}
+		}
+	}
+	# Mexico state (incl. Hidalgo): 1050153 in 1830, 1145759 in 1840, so averaging out to 1097956
+	# Puebla: 610950 in 1830, 661524 in 1840, so averaging out to 636237
+	# Tlaxcala: 72271 in 1830, 81524 in 1840, so averaging out to 76897
+	# working total number of 1811090
+	s:STATE_MEXICO = {
+		region_state:MEX = {
+			create_pop = {
+				culture = mexican
+				size = 39828636
+			}
+		}
+	}
+
+	s:STATE_GUERRERO = { 
+		region_state:MEX = {
+			create_pop = {
+				culture = mexican
+				size = 3079649
+			}
+		}
+	}
+	s:STATE_OAXACA = { # approx 479674. 457504 in 1830, 501844 in 1840.
+		region_state:MEX = {
+			create_pop = {
+				culture = mexican
+				size = 3438765
+			}
+		}
+	}
+	# Jalisco: 656881 in 1830, 691397 in 1840, so averaging out to 674139
+	# Michoacan: 435281 in 1830, 497537 in 1840, so averaging out to 466409
+	# Colima: 45838 in 1830, 53389 in 1840, so averaging out to 49614
+	# working total of 1190162
+	# 1.5858
+	s:STATE_JALISCO = {
+		region_state:MEX = {
+			create_pop = {
+				culture = mexican
+				size = 10850296
+			}
+		}
+	}
+	# Zacatecas: 222918 in 1830, 274380 in 1840, so averaging out to 248649
+	# Aguascalientes: 57125 in 1830, 72193, so averaging out to 64659
+	# working total of 313308
+	s:STATE_ZACATECAS = {
+		region_state:MEX = {
+			create_pop = {
+				culture = mexican
+				size = 2297895
+			}
+		}
+	}
+	# 121424 in 1830, 138595 in 1840
+	# working total of 130010
+	s:STATE_CHIAPAS = {
+		region_state:MEX = {
+			create_pop = {
+				culture = mexican
+				size = 3920892
+			}
+		}
+	}
+	s:STATE_BAJA_CALIFORNIA = {
+		region_state:MEX = {
+			create_pop = {
+				culture = mexican
+				size = 2911408
+			}
+		}
+	}
+}
+}

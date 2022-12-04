@@ -1,0 +1,164 @@
+TAT = {
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	color2 = "red"
+
+	colored_emblem = {
+		texture = "ce_bend_dexter_fimbriated.dds"
+		color1 = white
+		color2 = black
+	}
+}
+
+BAR = {
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	color2 = "blue"
+
+	colored_emblem = {
+		texture = "ce_tricolor_vertical.dds"
+		color1 = "yellow"
+		color2 = "blue"
+	}
+	
+	colored_emblem = {
+		texture = "ce_trident.dds"
+		color1 = "black"
+		color2 = "black"
+		instance = { scale = { 0.6 0.6 } }
+	}
+}
+
+ANG = {
+	pattern = "pattern_solid.tga"
+	color1 = "black"
+	color2 = "black"
+
+	colored_emblem = {
+		texture = "ce_bicolor_top.dds"
+		color1 = "red"
+		color2 = "red"
+	}
+
+	colored_emblem = {
+		texture = "ce_cogwheel_machete_angola.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { scale = { 0.8 0.8 } }
+	}
+}
+
+CNG = {
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+	color2 = "blue_light"
+
+	colored_emblem = {
+		texture = "ce_bend_sinister_fimbriated.dds"
+		color1 = "yellow"
+		color2 = "red"
+	}
+	
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { scale = { 0.45 0.45 } position = { 0.2 0.25 } }
+	}
+}
+
+NIG = {
+	pattern = "pattern_solid.tga"
+	color1 = "orange"
+	color2 = "orange"
+
+	colored_emblem = {
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "green_light"
+	}
+	
+	colored_emblem = {
+		texture = "ce_circle.dds"
+		color1 = "orange"
+		color2 = "orange"
+		instance = { scale = { 0.5 0.5 } }
+	}
+}
+
+LBY = {
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	color2 = "red"
+
+	colored_emblem = {
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "black"
+		color2 = "green"
+	}
+
+	colored_emblem = {
+		texture = "ce_crescent_star_turkey.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 0.25 0.25 } }
+	}
+}
+
+CHA = {
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	color2 = "blue"
+
+	colored_emblem = {
+		texture = "ce_tricolor_vertical.dds"
+		color1 = "yellow"
+		color2 = "red"
+	}
+}
+
+NMB = {
+	pattern = "pattern_per_bend_senester.dds"
+	color1 = "blue"
+	color2 = "green"
+
+	colored_emblem = {
+		texture = "ce_bend_sinister_fimbriated.dds"
+		color1 = "white"
+		color2 = "red"
+	}
+
+	colored_emblem = {
+		texture = "ce_sun.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { scale = { 0.35 0.35 } position = { 0.2 0.25 } }
+	}
+}
+
+GAB = {
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	color2 = "green"
+
+	colored_emblem = {
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "yellow"
+		color2 = "blue"
+	}
+}
+
+NKR = {
+	pattern = "pattern_border_of_2_double.dds"
+	color1 = "red"
+	color2 = "white"
+	color3 = "blue"
+
+	colored_emblem = {
+		texture = "ce_star_05_circle.dds"
+		color1 = "white"
+		color2 = "red"
+		instance = { scale = { 0.9 0.9 } position = { 0.3 0.5 } }
+	}
+}
+		

@@ -1,0 +1,29 @@
+COUNTRIES = {
+	c:CAN = {
+		# set_next_election_date = ???
+		
+		effect_starting_technology_tier_1_tech = yes
+		
+		activate_law = law_type:law_landed_voting
+		activate_law = law_type:law_total_separation
+		activate_law = law_type:law_slavery_banned
+		activate_law = law_type:law_mercantilism
+		activate_law = law_type:law_interventionism
+		activate_law = law_type:law_per_capita_based_taxation
+		activate_law = law_type:law_no_police
+		activate_law = law_type:law_appointed_bureaucrats
+		activate_law = law_type:law_public_schools
+
+		}
+
+		ig:ig_devout = { 
+			set_interest_group_name = ig_catholic_church 
+		}
+
+		add_modifier = {
+			name = age_of_caudillos_modifier
+			months = very_long_modifier_time
+			is_decaying = yes
+		}
+	}
+}

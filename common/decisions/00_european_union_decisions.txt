@@ -1,0 +1,31 @@
+decision_article_50 = {
+	is_shown = {
+		has_modifier = european_union_member
+		NOT = {
+			has_variable = leaving_eu
+		}
+	}
+	possible = {
+		has_modifier = european_union_member
+	}
+	when_taken = {
+		set_variable = leaving_eu
+	}
+	ai_chance = {
+		base = 0
+	}
+}
+decision_reverse_article_50 = {
+	is_shown = {
+		has_variable = leaving_eu
+	}
+	possible = {
+		has_variable = leaving_eu
+	}
+	when_taken = {
+		remove_variable = leaving_eu
+	}
+	ai_chance = {
+		base = 0
+	}
+}

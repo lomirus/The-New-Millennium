@@ -1,0 +1,18 @@
+POPS = {
+    s:STATE_LUBUSZ = {
+		region_state:POL = {
+			create_pop = {
+				culture = polish
+				size = 1013031
+			}
+		}
+	}
+	s:STATE_KALININGRAD = {
+		region_state:RUS = {
+			create_pop = {
+				culture = russian
+				size = 1004143
+			}
+		}
+	}
+}

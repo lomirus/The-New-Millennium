@@ -1,0 +1,13 @@
+﻿COUNTRIES = {
+	c:MAD = {
+		effect_starting_technology_tier_6_tech = yes
+	
+		activate_law = law_type:law_presidential_republic
+		activate_law = law_type:law_slave_trade
+		activate_law = law_type:law_isolationism
+
+		add_modifier = {
+			name = modifier_tangena_ordeal
+		}	
+	}
+}

@@ -1,0 +1,113 @@
+﻿DIPLOMACY = {
+	#European Union
+	c:EUM = {
+		create_diplomatic_pact = {
+			country = c:BEL
+			type = customs_union
+		}
+		create_diplomatic_pact = {
+			country = c:NET
+			type = customs_union
+		}
+		create_diplomatic_pact = {
+			country = c:LUX
+			type = customs_union
+		}
+		create_diplomatic_pact = {
+			country = c:FRA
+			type = customs_union
+		}
+		create_diplomatic_pact = {
+			country = c:SPA
+			type = customs_union
+		}
+		create_diplomatic_pact = {
+			country = c:POR
+			type = customs_union
+		}
+		create_diplomatic_pact = {
+			country = c:ITA
+			type = customs_union
+		}
+		create_diplomatic_pact = {
+			country = c:AUS
+			type = customs_union
+		}
+		create_diplomatic_pact = {
+			country = c:DEN
+			type = customs_union
+		}
+		create_diplomatic_pact = {
+			country = c:SWE
+			type = customs_union
+		}
+		create_diplomatic_pact = {
+			country = c:FIN
+			type = customs_union
+		}
+		create_diplomatic_pact = {
+			country = c:GER
+			type = customs_union
+		}
+		create_diplomatic_pact = {
+			country = c:SLO
+			type = customs_union
+		}
+		create_diplomatic_pact = {
+			country = c:SLV
+			type = customs_union
+		}
+		create_diplomatic_pact = {
+			country = c:CRO
+			type = customs_union
+		}
+		create_diplomatic_pact = {
+			country = c:CZH
+			type = customs_union
+		}
+		create_diplomatic_pact = {
+			country = c:POL
+			type = customs_union
+		}
+		create_diplomatic_pact = {
+			country = c:ROM
+			type = customs_union
+		}
+		create_diplomatic_pact = {
+			country = c:BUL
+			type = customs_union
+		}
+		create_diplomatic_pact = {
+			country = c:GRE
+			type = customs_union
+		}
+		create_diplomatic_pact = {
+			country = c:HUN
+			type = customs_union
+		}
+		create_diplomatic_pact = {
+			country = c:LIT
+			type = customs_union
+		}
+		create_diplomatic_pact = {
+			country = c:LAT
+			type = customs_union
+		}
+		create_diplomatic_pact = {
+			country = c:EST
+			type = customs_union
+		}
+		create_diplomatic_pact = {
+			country = c:IRE
+			type = customs_union
+		}
+		create_diplomatic_pact = {
+			country = c:CYP
+			type = customs_union
+		}
+		create_diplomatic_pact = {
+			country = c:MLT
+			type = customs_union
+		}
+	}
+}

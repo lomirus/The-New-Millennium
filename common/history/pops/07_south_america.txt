@@ -1,0 +1,461 @@
+﻿POPS = {
+	s:STATE_ECUADOR = {
+		region_state:ECU = {
+			create_pop = {
+				culture = north_andean
+				size = 17640000
+			}	
+		}
+	}
+	s:STATE_GUAYANA = {
+		region_state:SUR = {
+			create_pop = {
+				culture = afro_caribbean
+				size = 587000
+			}
+		}
+		region_state:FRA = {
+			create_pop = {
+				culture = afro_antillean
+				size = 299000
+			}
+		}
+		region_state:GUY = {
+			create_pop = {
+				culture = afro_caribbean
+				size = 787000
+			}
+		}
+	}
+	s:STATE_ZULIA = {
+		region_state:VNZ = {
+			create_pop = {
+				culture = north_andean
+				size = 11913000
+			}
+		}
+		region_state:NET = {
+			create_pop = {
+				culture = north_andean
+				size = 283000
+			}
+		}
+	}
+	s:STATE_MIRANDA = {
+		region_state:VNZ = {
+			create_pop = {
+				culture = north_andean
+				size = 12252000
+			}
+		}
+	}
+	s:STATE_BOLIVAR = {
+		region_state:VNZ = {
+			create_pop = {
+				culture = north_andean
+				size = 4020000
+			}
+		}
+	}
+	s:STATE_ANTIOQUIA = { # La Guajira, Cesar, Magdalena, Atlantico, Bolivar, Norte de Santander, Santander, Sucre, Cordoba, Antioqua, Choco, San Andres y Providencia
+		region_state:CLM = {
+			create_pop = {
+				culture = north_andean
+				size = 22398000
+			}
+		}
+	}
+	s:STATE_GUAVIARE = { # Aruca, Casanare, Vichada, Meta, Guainia, Guaviare, Caqueta, Putumayo, Vaupes, Amazonas
+		region_state:CLM = {
+			create_pop = {
+				culture = amazonian
+				size = 2929000
+			}
+		}
+	}
+	s:STATE_CUNDINAMARCA = { # Boyaca, Cundinamarca, Caldas, Risaralda, Capital District, Quindio, Tolima
+		region_state:CLM = {
+			create_pop = {
+				culture = north_andean
+				size = 16361000
+			}
+		}
+	}
+	s:STATE_CAUCA = { # Valle Del Cauca, Cauca, Narino, Huila
+		region_state:CLM = {
+			create_pop = {
+				culture = north_andean
+				size = 9171000
+			}
+		}
+	}
+	s:STATE_PASTAZA = { # Loreto, Amazonas, San Martin
+		region_state:PEU = {
+			create_pop = {
+				culture = south_andean
+				size = 2354000
+			}
+		}
+	}
+	s:STATE_TARAPACA = { # Tarapaca, Arica y Parinacota
+		region_state:CHL = {
+			create_pop = {
+				culture = south_andean
+				size = 619000
+			}
+		}
+	}
+	s:STATE_ANTOFAGASTA = { # Antofagasta
+		region_state:CHL = {
+			create_pop = {
+				culture = south_andean
+				size = 667000
+			}
+		}
+	}
+	s:STATE_SANTA_CRUZ = { # Santa Cruz, Chuquisaca
+		region_state:BOL = {
+			create_pop = {
+				culture = south_andean
+				size = 4001000
+			}
+		}
+	}
+	s:STATE_LA_PAZ = { # Pando, Beni, La Paz, Cochabamba
+		region_state:BOL = {
+			create_pop = {
+				culture = south_andean
+				size = 5590000
+			}
+		}
+	}
+	s:STATE_POTOSI = { # Oruro, Potosi
+		region_state:BOL = {
+			create_pop = {
+				culture = south_andean
+				size = 1453000
+			}
+		}
+	}
+	s:STATE_CAJAMARCA = { # Tumbes, Piura, Lambayeque, Cajamarca, La Libertad
+		region_state:PEU = {
+			create_pop = {
+				culture = south_andean
+				size = 7081000
+			}
+		}
+	}
+	s:STATE_LIMA = { # Ancash, Huanuco, Lima, Pasco, Ucayali, Lima Province, Callao, Junin, Huancavelica
+		region_state:PEU = {
+			create_pop = {
+				culture = south_andean
+				size = 16287000
+			}
+		}
+	}
+	s:STATE_ICA = { # Ica, Ayacucho, Apurimac, Cusco, Madre de Dios
+		region_state:PEU = {
+			create_pop = {
+				culture = south_andean
+				size = 3605000
+			}
+		}
+	}
+	s:STATE_AREQUIPA = { # Tacna, Moquegua, Puno, Arequipa
+		region_state:PEU = {
+			create_pop = {
+				culture = south_andean
+				size = 3299000
+			}
+		}
+	}
+	s:STATE_URUGUAY = {
+		region_state:URU = {
+			create_pop = {
+				culture = platinean
+				size = 3531000
+			}
+		}
+	}
+	s:STATE_JUJUY = { 
+		region_state:BOL = { # Tarija
+			create_pop = {
+				culture = south_andean
+				size = 583000
+			}
+		}
+		region_state:ARG = {
+			create_pop = {
+				culture = platinean
+				size = 2209000
+			}
+		}
+	}
+	s:STATE_ALTO_PARAGUAY = {
+		region_state:PRG = { # Alto Paraguay, Boqueron, Presidente Hayes
+			create_pop = {
+				culture = platinean
+				size = 213018
+			}
+		}
+		region_state:ARG = {
+			create_pop = {
+				culture = platinean
+				size = 606000
+			}
+		}
+	}
+	s:STATE_BAJO_PARAGUAY = {
+		region_state:PRG = {
+			create_pop = {
+				culture = platinean
+				size = 7040000
+			}
+		}
+	}
+	s:STATE_BUENOS_AIRES = {
+		region_state:ARG = {
+			create_pop = {
+				culture = platinean
+				size = 20527000
+			}		
+		}
+	}
+	s:STATE_PATAGONIA = {
+		region_state:ARG = {
+			create_pop = {
+				culture = patagonian
+				size = 2399000
+			}			
+		}
+	}
+	s:STATE_RIO_NEGRO = { # Mendoza
+		region_state:ARG = {
+			create_pop = {
+				culture = platinean
+				size = 2365000
+			}
+		}
+	}
+	s:STATE_LA_PAMPA = { # Cordoba
+		region_state:ARG = {
+			create_pop = {
+				culture = platinean
+				size = 4279000
+			}
+		}
+	}
+	s:STATE_SANTA_FE = {
+		region_state:ARG = {
+			create_pop = {
+				culture = platinean
+				size = 4937000
+			}		
+		}
+	}
+	s:STATE_CORRIENTES = {
+		region_state:ARG = {
+			create_pop = {
+				culture = platinean
+				size = 2398000
+			}
+		}
+	}
+	s:STATE_TUCUMAN = {
+		region_state:ARG = {
+			create_pop = {
+				culture = platinean
+				size = 3288000
+			}
+		}
+	}
+	s:STATE_CHACO = {
+		region_state:ARG = {
+			create_pop = {
+				culture = platinean
+				size = 2201000
+			}
+		}
+	}
+	s:STATE_SANTIAGO = { # Region Metropolitana, Valparaiso, Coquimbo, Atacama
+		region_state:CHL = {
+			create_pop = {
+				culture = south_andean
+				size = 10983000
+			}
+		}
+	}
+	s:STATE_LOS_RIOS = { # Rios, Araucania, Bio-Bio, Nuble, Maule, O'Higgins
+		region_state:CHL = {
+			create_pop = {
+				culture = south_andean
+				size = 5690000
+			}
+		}
+	}
+	s:STATE_ARAUCANIA = {
+		region_state:CHL = { # Magallanes y de la Antartica Chilena, Aysen, Lagos
+			create_pop = {
+				culture = south_andean
+				size = 1174000
+			}
+		}
+		region_state:ARG = {
+			create_pop = {
+				culture = patagonian
+				size = 173000
+		}
+	}
+	s:STATE_SOUTH_ATLANTIC_ISLANDS = {
+		region_state:GBR = {
+			create_pop = {
+				culture = british
+				size = 11360
+			}
+		}
+	}
+	s:STATE_ACRE={
+		region_state:BRZ = {
+			create_pop = {
+				culture = amazonian
+				size = 906000
+			}
+		}
+	}
+	s:STATE_AMAZONAS = {
+		region_state:BRZ = {
+			create_pop = {
+				culture = amazonian
+				size = 4853000
+			}
+		}		
+	}
+	s:STATE_MATO_GROSSO = {
+		region_state:BRZ = {
+			create_pop = {
+				culture = brazilian
+				size = 8222000
+			}
+		}
+	}
+	s:STATE_RIO_GRANDE_DO_SUL = {
+		region_state:BRZ = {
+			create_pop = {
+				culture = brazilian
+				size = 11467000
+			}
+		}
+	}
+	s:STATE_PARANA = {
+		region_state:BRZ = {
+			create_pop = {
+				culture = brazilian
+				size = 11598000
+			}
+		}
+	}
+	s:STATE_SANTA_CATARINA = {
+		region_state:BRZ = {
+			create_pop = {
+				culture = brazilian
+				size = 7339000
+			}
+		}
+	}
+	s:STATE_SAO_PAULO = {
+		region_state:BRZ = {
+			create_pop = {
+				culture = brazilian
+				size = 46214000
+			}
+		}
+	}
+	s:STATE_MINAS_GERAIS = {
+		region_state:BRZ = {
+			create_pop = {
+				culture = brazilian
+				size = 21396000
+			}
+		}
+	}
+	s:STATE_RIO_DE_JANEIRO = {
+		region_state:BRZ = {
+			create_pop = {
+				culture = brazilian
+				size = 21471857
+			}
+		}
+	}
+	s:STATE_BAHIA = {
+		region_state:BRZ = {
+			create_pop = {
+				culture = brazilian
+				size = 14985000
+			}
+		}
+	}
+	s:STATE_RIO_GRANDE_DO_NORTE = {
+		region_state:BRZ = {
+			create_pop = {
+				culture = brazilian
+				size = 3561000
+			}
+		}
+	}
+	s:STATE_CEARA = {
+		region_state:BRZ = {
+			create_pop = {
+				culture = brazilian
+				size = 9241000
+			}
+		}
+	}
+	s:STATE_PIAUI = {
+		region_state:BRZ = {
+			create_pop = {
+				culture = brazilian
+				size = 3289000
+			}
+		}
+	}
+	s:STATE_PERNAMBUCO = {
+		region_state:BRZ = {
+			create_pop = {
+				culture = brazilian
+				size = 15379000
+			}
+		}
+	}
+	s:STATE_PARAIBA = {
+		region_state:BRZ = {
+			create_pop = {
+				culture = brazilian
+				size = 4060000
+			}
+		}
+	}
+	s:STATE_MARANHAO = {
+		region_state:BRZ = {
+			create_pop = {
+				culture = brazilian
+				size = 7153000
+			}
+		}
+	}
+	s:STATE_GOIAS = {
+		region_state:BRZ = {
+			create_pop = {
+				culture = brazilian
+				size = 11908000
+			}
+		}
+	}
+	s:STATE_PARA = {
+		region_state:BRZ = {
+			create_pop = {
+				culture = brazilian
+				size = 9565000
+			}
+		}
+	}
+}

@@ -68,7 +68,7 @@ STATES = {
 	s:STATE_PROVENCE = {
 		create_state = {
 			country = c:FRA
-			owned_provinces = { x31C0DF x1727F7 xC03918 xB0C0E0 xB8E48D xBBB6AD x6D5E3F xB040E0 x3040E0 xCB9C34 xB0C060 x5080E0 }
+			owned_provinces = { x31C0DF xC03918 xB0C0E0 xB8E48D x6D5E3F xB040E0 x3040E0 xCB9C34 xB0C060 x5080E0 }
 		}
 		
 		add_homeland = french
@@ -93,7 +93,7 @@ STATES = {
 	s:STATE_HOLLAND = {
 		create_state = {
 			country = c:NET
-			owned_provinces = { x777732 x80C0A0 xC04021 x01C0A0 }
+			owned_provinces = { x777732 x80C0A0 xC04021 xAF3A54 x41C0A0 }
 		}
 		
 		add_homeland = dutch
@@ -2505,10 +2505,6 @@ x83A6B2 xB82E36 }
 			country = c:GBR
 			owned_provinces = { x688E79 x0A38AF x2BE1C8 xA06040 xCFCD2B xAA6FA1 x20E040 }
 		}
-		create_state = {
-			country = c:IRE
-			owned_provinces = { xA0C0E0 }
-		}
 		
 		add_homeland = irish
 		add_homeland = british
@@ -2533,7 +2529,7 @@ x83A6B2 xB82E36 }
 	s:STATE_LANGUEDOC = {
 		create_state = {
 			country = c:FRA
-			owned_provinces = { x906080 x106080 x7BCDC4 xCF9FBF x1060C0 }
+			owned_provinces = { x906080 x106080 x7BCDC4 xCF9FBF x1060C0 x1727F7 xBBB6AD }
 		}
 		
 		add_homeland = french
@@ -2799,7 +2795,7 @@ x83A6B2 xB82E36 }
 	s:STATE_GELRE = {
 		create_state = {
 			country = c:NET
-			owned_provinces = { x0000DF xC0C0A0 x4C4894 xAF3A54 x41C0A0 }
+			owned_provinces = { x0000DF xC0C0A0 x4C4894 x01C0A0 }
 		}
 
 		add_homeland = dutch
@@ -6098,7 +6094,7 @@ x83A6B2 xB82E36 }
 	s:STATE_CONNAUGHT = {
 		create_state = {
 			country = c:IRE
-			owned_provinces = { x20E0C0 x641238 xE5C4FE xC7847D xA060C0 x5DEF58 x85F13B x656D90 }
+			owned_provinces = { x20E0C0 x641238 xE5C4FE xC7847D xA060C0 x5DEF58 x85F13B x656D90 xA0C0E0 }
 		}
 		
 		add_homeland = irish

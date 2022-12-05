@@ -1,4 +1,12 @@
 ﻿POPS = {
+	s:STATE_SOUTH_TYROL = {
+		region_state:ITA = {
+			create_pop = {
+				culture = north_italian
+				size = 1072000
+			}
+		}
+	}
 	s:STATE_LOMBARDY = {
 		region_state:ITA = {
 			create_pop = {
@@ -76,18 +84,6 @@
 			create_pop = {
 				culture = south_italian
 				size = 1618000
-			}
-		}
-	}
-	s:STATE_SAVOY = {
-		region_state:FRA = {
-			create_pop = {
-				culture = french
-				size = 287600
-			}
-			create_pop = {
-				culture = north_italian
-				size = 181200
 			}
 		}
 	}

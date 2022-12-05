@@ -521,6 +521,14 @@
 			}
 		}
 	}
+	s:STATE_POMERANIA = {
+		region_state:POL = {
+			create_pop = {
+				culture = polish
+				size = 0 #2130249 for when it's done
+			}
+		}
+	}
 	s:STATE_MAZOVIA = {
 		region_state:POL = {
 			create_pop = {

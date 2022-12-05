@@ -568,3 +568,48 @@ computers = {
 	obsession_chance = 1.0
 	prestige_factor = 10
 }
+
+microchips = {
+	texture = "gfx/interface/icons/goods_icons/computers.dds"
+	cost = 70 
+	category = industrial
+	
+	obsession_chance = 1.0
+	prestige_factor = 10
+}
+
+pharmaceuticals = {
+	texture = "gfx/interface/icons/goods_icons/computers.dds"
+	cost = 60
+	category = industrial
+	
+	prestige_factor = 5
+	traded_quantity = 7
+	convoy_cost_multiplier = 0.25
+}
+
+plastics = {
+	texture = "gfx/interface/icons/goods_icons/computers.dds"
+	cost = 30
+	category = industrial
+	
+	prestige_factor = 5
+	
+	traded_quantity = 15
+	convoy_cost_multiplier = 0.75
+	
+	consumption_tax_cost = 200
+}
+
+uranium = {
+	texture = "gfx/interface/icons/goods_icons/computers.dds"
+	cost = 30
+	category = industrial
+	
+	prestige_factor = 5
+	
+	traded_quantity = 15
+	convoy_cost_multiplier = 0.75
+	
+	consumption_tax_cost = 200
+}

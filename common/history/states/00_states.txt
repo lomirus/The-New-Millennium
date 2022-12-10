@@ -5640,7 +5640,7 @@ x83A6B2 xB82E36 }
 	}
 	s:STATE_ISTRIA = {
 		create_state = {
-			country = c:SLO
+			country = c:ITA
 			owned_provinces = { x108021 x3060BF x56C78A }
 		}
 		create_state = {

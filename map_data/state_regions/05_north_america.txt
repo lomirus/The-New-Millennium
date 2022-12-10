@@ -290,7 +290,7 @@ STATE_KANSAS = {
     }
     resource = {
         type = "bg_oil_extraction"
-        undiscovered_amount = 40
+        undiscovered_amount = 200
     }
 }
 
@@ -310,7 +310,7 @@ STATE_OKLAHOMA = {
     }
     resource = {
         type = "bg_oil_extraction"
-        undiscovered_amount = 40
+        undiscovered_amount = 200
     }
 }
 
@@ -639,7 +639,7 @@ STATE_PENNSYLVANIA = {
     }
     resource = {
         type = "bg_oil_extraction"
-        undiscovered_amount = 72
+        undiscovered_amount = 360
     }
 }
 
@@ -889,7 +889,7 @@ STATE_ONTARIO = {
     }
     resource = {
         type = "bg_oil_extraction"
-        undiscovered_amount = 80
+        undiscovered_amount = 400
     }
 }
 
@@ -977,7 +977,7 @@ STATE_ALBERTA = {
     }
     resource = {
         type = "bg_oil_extraction"
-        undiscovered_amount = 100
+        undiscovered_amount = 500
     }
 }
 
@@ -1134,7 +1134,7 @@ STATE_TEXAS = {
     }
     resource = {
         type = "bg_oil_extraction"
-        undiscovered_amount = 100
+        undiscovered_amount = 500
     }
     naval_exit_id = 3060
 }
@@ -1224,7 +1224,7 @@ STATE_CALIFORNIA = {
     }
     resource = {
         type = "bg_oil_extraction"
-        undiscovered_amount = 120
+        undiscovered_amount = 400
     }
     naval_exit_id = 3153
 }
@@ -1288,7 +1288,7 @@ STATE_RIO_GRANDE = {
     }
     resource = {
         type = "bg_oil_extraction"
-        undiscovered_amount = 100
+        undiscovered_amount = 400
     }
     naval_exit_id = 3060
 }

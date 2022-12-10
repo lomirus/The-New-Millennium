@@ -389,7 +389,7 @@ STATE_LIBYAN_DESERT = {
     arable_resources = { "bg_livestock_ranches" }
     resource = {
         type = "bg_oil_extraction"
-        undiscovered_amount = 60
+        undiscovered_amount = 300
     }
 }
 

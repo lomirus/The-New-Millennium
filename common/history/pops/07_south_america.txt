@@ -17,7 +17,7 @@
 		region_state:FRA = {
 			create_pop = {
 				culture = afro_antillean
-				size = 299000
+				size = 285700
 			}
 		}
 		region_state:GUY = {

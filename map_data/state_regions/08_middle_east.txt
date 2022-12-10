@@ -50,7 +50,7 @@ STATE_ABU_DHABI = {
     }
     resource = {
         type = "bg_oil_extraction"
-        undiscovered_amount = 80
+        undiscovered_amount = 600
     }
     naval_exit_id = 3046
 }
@@ -245,7 +245,7 @@ STATE_MOSUL = {
     }
     resource = {
         type = "bg_oil_extraction"
-        undiscovered_amount = 100
+        undiscovered_amount = 500
     }
 }
 
@@ -279,7 +279,7 @@ STATE_BASRA = {
     }
     resource = {
         type = "bg_oil_extraction"
-        undiscovered_amount = 120
+        undiscovered_amount = 600
     }
     naval_exit_id = 3046
 }
@@ -301,7 +301,7 @@ STATE_FARS = {
     }
     resource = {
         type = "bg_oil_extraction"
-        undiscovered_amount = 120
+        undiscovered_amount = 600
     }
     naval_exit_id = 3046
 }

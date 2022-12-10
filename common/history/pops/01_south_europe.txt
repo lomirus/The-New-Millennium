@@ -3,7 +3,7 @@
 		region_state:ITA = {
 			create_pop = {
 				culture = north_italian
-				size = 1072000
+				size = 937166
 			}
 		}
 	}
@@ -11,7 +11,7 @@
 		region_state:ITA = {
 			create_pop = {
 				culture = north_italian
-				size = 10060000
+				size = 8971000
 			}
 		}
 	}
@@ -19,7 +19,7 @@
 		region_state:ITA = {
 			create_pop = {
 				culture = north_italian
-				size = 6033000
+				size = 5962548
 			}
 		}
 	}
@@ -27,7 +27,7 @@
 		region_state:ITA = {
 			create_pop = {
 				culture = south_italian
-				size = 1640000
+				size = 1639000
 			}
 		}
 	}
@@ -35,7 +35,7 @@
 		region_state:MLT = {
 			create_pop = {
 				culture = maltese
-				size = 515332
+				size = 390087
 			}
 		}
 	}
@@ -43,7 +43,87 @@
 		region_state:ITA = {
 			create_pop = {
 				culture = south_italian
-				size = 2407000
+				size = 2297000
+			}
+		}
+	}
+	s:STATE_CALABRIA = {
+		region_state:ITA = {
+			create_pop = {
+				culture = south_italian
+				size = 2609000
+			}
+		}
+	}
+	s:STATE_APULIA = {
+		region_state:ITA = {
+			create_pop = {
+				culture = south_italian
+				size = 4342000
+			}
+		}
+	}
+	s:STATE_ABRUZZO = {
+		region_state:ITA = {
+			create_pop = {
+				culture = south_italian
+				size = 1262000
+			}
+		}
+	}
+	s:STATE_EMILIA = {
+		region_state:ITA = {
+			create_pop = {
+				culture = north_italian
+				size = 3160354
+			}
+		}
+	}
+	s:STATE_TUSCANY = {
+		region_state:ITA = {
+			create_pop = {
+				culture = north_italian
+				size = 3498000
+			}
+		}
+	}
+	s:STATE_ROMAGNA = {
+		region_state:ITA = {
+			create_pop = {
+				culture = north_italian
+				size = 822646
+			}
+		}
+	}
+	s:STATE_LAZIO = {
+		region_state:ITA = {
+			create_pop = {
+				culture = south_italian
+				size = 5112000
+			}
+		}
+	}
+	s:STATE_VENETIA = {
+		region_state:ITA = {
+			create_pop = {
+				culture = north_italian
+				size = 5712000
+			}
+		}
+	}
+	s:STATE_SICILY = {
+		region_state:ITA = {
+			create_pop = {
+				culture = south_italian
+				size = 4969000
+			}
+		}
+	}
+	s:STATE_CAMPANIA={
+		region_state:ITA={
+			create_pop = {
+				culture = south_italian
+				size = 5672683
 			}
 		}
 	}
@@ -55,117 +135,27 @@
 			}
 		}
 	}
-	s:STATE_CAMPANIA = {
-		region_state:ITA = {
-			create_pop = {
-				culture = south_italian
-				size = 2557396
-			}
-		}
-	}
-	s:STATE_CALABRIA = {
-		region_state:ITA = {
-			create_pop = {
-				culture = south_italian
-				size = 2510000
-			}
-		}
-	}
-	s:STATE_APULIA = {
-		region_state:ITA = {
-			create_pop = {
-				culture = south_italian
-				size = 4029000
-			}
-		}
-	}
-	s:STATE_ABRUZZO = {
-		region_state:ITA = {
-			create_pop = {
-				culture = south_italian
-				size = 1618000
-			}
-		}
-	}
-	s:STATE_EMILIA = {
-		region_state:ITA = {
-			create_pop = {
-				culture = north_italian
-				size = 2229000
-			}
-		}
-	}
-	s:STATE_TUSCANY = {
-		region_state:ITA = {
-			create_pop = {
-				culture = north_italian
-				size = 3730000
-			}
-		}
-	}
-	s:STATE_ROMAGNA = {
-		region_state:ITA = {
-			create_pop = {
-				culture = north_italian
-				size = 2228000
-			}
-		}
-	}
-	s:STATE_LAZIO = {
-		region_state:ITA = {
-			create_pop = {
-				culture = south_italian
-				size = 5879000
-			}
-		}
-	}
-	s:STATE_VENETIA = {
-		region_state:ITA = {
-			create_pop = {
-				culture = north_italian
-				size = 6121000
-			}
-		}
-	}
-	s:STATE_SICILY = {
-		region_state:ITA = {
-			create_pop = {
-				culture = south_italian
-				size = 5000000
-			}
-		}
-	}
 	s:STATE_TOLEDO = {
 		region_state:SPA = {
 			create_pop = {
 				culture = spanish
-				size = 1268400
+				size = 7183384
 			}
 		}
 	}
 	s:STATE_GALICIA = {
-		# 840792
 		region_state:SPA = {
 			create_pop = {
 				culture = galician
-				size = 828528
-			}
-			create_pop = {
-				culture = spanish
-				size = 12264
+				size = 2695880
 			}
 		}
 	}
 	s:STATE_ASTURIAS = {
-		# please don't ask for a source
 		region_state:SPA = {
 			create_pop = {
 				culture = spanish
-				size = 614264
-			}
-			create_pop = {
-				culture = basque
-				size = 32000
+				size = 1598129
 			}
 		}	
 	}
@@ -173,11 +163,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = spanish
-				size = 1430808
-			}
-			create_pop = {
-				culture = basque
-				size = 4000
+				size = 2456474
 			}
 		}
 	}
@@ -185,15 +171,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = spanish
-				size = 579200
-			}
-			create_pop = {
-				culture = catalan
-				size = 32220
-			}
-			create_pop = {
-				culture = basque
-				size = 700060
+				size = 2912244
 			}
 		}
 	}
@@ -201,15 +179,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = spanish
-				size = 401200
-			}
-			create_pop = {
-				culture = basque
-				size = 100008
-			}
-			create_pop = {
-				culture = catalan
-				size = 77996
+				size = 1204215
 			}
 		}
 	}
@@ -217,11 +187,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = catalan
-				size = 704308
-			}
-			create_pop = {
-				culture = spanish
-				size = 316804
+				size = 6174547
 			}
 		}
 	}
@@ -229,11 +195,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = catalan
-				size = 145244
-			}
-			create_pop = {
-				culture = spanish
-				size = 78020
+				size = 841669
 			}
 		}
 	}
@@ -241,7 +203,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = spanish
-				size = 1057592
+				size = 5150291
 			}
 		}
 	}
@@ -249,7 +211,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = spanish
-				size = 1218404
+				size = 7094284
 			}
 		}
 	}
@@ -257,7 +219,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = spanish
-				size = 579992
+				size = 1058503
 			}
 		}
 	}
@@ -265,11 +227,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = spanish
-				size = 989604
-			}
-			create_pop = {
-				culture = catalan
-				size = 490392
+				size = 5067911
 			}
 		}
 	}

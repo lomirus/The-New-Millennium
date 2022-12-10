@@ -352,7 +352,7 @@ STATE_PERM = {
     }
     resource = {
         type = "bg_oil_extraction"
-        undiscovered_amount = 120
+        undiscovered_amount = 600
     }
 }
 
@@ -549,7 +549,7 @@ STATE_WEST_GALICIA = {
     }
     resource = {
         type = "bg_oil_extraction"
-        undiscovered_amount = 72
+        undiscovered_amount = 360
     }
 }
 
@@ -753,7 +753,7 @@ STATE_WALLACHIA = {
     }
     resource = {
         type = "bg_oil_extraction"
-        undiscovered_amount = 120
+        undiscovered_amount = 400
     }
 }
 

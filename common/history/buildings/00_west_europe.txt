@@ -1,6 +1,12 @@
 ﻿BUILDINGS={
 	s:STATE_SVEALAND={
 		region_state:SWE={
+		    create_building={
+				building="building_computers_industry"
+				level=4
+				reserves=1
+				activate_production_methods={ "pm_90s_cpus" }
+			}
 			create_building={
 				building="building_government_administration"
 				level=4

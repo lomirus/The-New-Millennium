@@ -1,0 +1,16 @@
+﻿
+pm_90s_cpus = {
+	texture = "gfx/interface/icons/production_method_icons/publicly_traded.dds"
+	
+	building_modifiers = {
+		workforce_scaled = {
+			# output goods
+			building_output_computers_add = 45	# x30 = 1350
+		}
+
+		level_scaled = {
+			# profit = 550
+			building_employment_laborers_add = 4500
+		}
+	}
+}		

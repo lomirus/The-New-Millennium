@@ -171,7 +171,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = spanish
-				size = 2912244
+				size = 2012244
 			}
 		}
 	}
@@ -203,7 +203,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = spanish
-				size = 5150291
+				size = 4150291
 			}
 		}
 	}
@@ -211,7 +211,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = spanish
-				size = 7094284
+				size = 4378008
 			}
 		}
 	}
@@ -235,7 +235,7 @@
 		region_state:POR = {
 			create_pop = {
 				culture = portuguese
-				size = 1620800
+				size = 3986269
 			}
 		}
 	}
@@ -243,7 +243,7 @@
 		region_state:POR = {
 			create_pop = {
 				culture = portuguese
-				size = 860796
+				size = 4760169
 			}
 		}
 	}
@@ -251,7 +251,7 @@
 		region_state:POR = {
 			create_pop = {
 				culture = portuguese
-				size = 372508
+				size = 1052244
 			}
 		}
 	}
@@ -259,7 +259,7 @@
 		region_state:CPV = {
 			create_pop = {
 				culture = portuguese
-				size = 556000
+				size = 428178
 			}
 		}
 	}
@@ -268,11 +268,7 @@
 		region_state:POR = {
 			create_pop = {
 				culture = portuguese
-				size = 103532
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 24666
+				size = 260893
 			}
 		}
 	}
@@ -281,7 +277,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = spanish
-				size = 208004
+				size = 1716276
 			}
 		}
 	}
@@ -290,73 +286,16 @@
 		region_state:POR = {
 			create_pop = {
 				culture = portuguese
-				size = 103532
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 24666
+				size = 241051
 			}
 		}
 	}
-	s:STATE_EASTERN_THRACE = {
-		region_state:TUR = {
-			create_pop = {
-				culture = turkish
-				size = 832996
-			}
-			create_pop = {
-				culture = greek
-				size = 281992
-			}
-			create_pop = {
-				culture = north_italian
-				size = 7996
-			}
-			create_pop = {
-				culture = bulgarian
-				size = 80004
-			}
-			create_pop = {
-				culture = armenian
-				size = 67996
-			}
-			create_pop = {
-				culture = sephardic
-				size = 50004
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = north_caucasian
-				size = 6000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = lacustrine_bantu
-				size = 16000
-			}
-		}
-	}
+	#Romania
 	s:STATE_DOBRUDJA = {
 		region_state:ROM = {
 			create_pop = {
-				culture = turkish
-				size = 59044
-			}
-			create_pop = {
-				culture = ukrainian
-				size = 3000
-			}
-			create_pop = {
-				culture = bulgarian
-				size = 90004
-			}
-			create_pop = {
-				culture = greek
-				size = 3900
-			}
-			create_pop = {
 				culture = romanian
-				size = 76000
+				size = 1058550
 			}
 		}
 	}
@@ -364,21 +303,7 @@
 		region_state:ALB = {
 			create_pop = {
 				culture = albanian
-				size = 1004808
-			}
-			create_pop = {
-				culture = greek
-				size = 40000
-			}
-			create_pop = {
-				culture = albanian
-				religion = catholic
-				size = 127200
-			}
-			create_pop = {
-				culture = albanian
-				religion = orthodox
-				size = 91200
+				size = 3063320
 			}
 		}
 	}
@@ -386,60 +311,23 @@
 		region_state:BOS = {
 			create_pop = {
 				culture = bosniak
-				size = 304908
-			}
-			create_pop = {
-				culture = sephardic
-				size = 3196
-			}
-			create_pop = {
-				culture = serb
-				size = 372400
-			}
-			create_pop = {
-				culture = croat
-				size = 183996
+				size = 4179350
 			}
 		}
 	}
 	s:STATE_NORTHERN_THRACE = {
 		region_state:BUL = {
 			create_pop = {
-				culture = turkish
-				size = 273408
-			}
-			create_pop = {
 				culture = bulgarian
-				size = 497600
-			}
-			create_pop = {
-				culture = greek
-				size = 40004
-			}
-			create_pop = {
-				culture = bulgarian
-				religion = sunni
-				size = 35600
-			}
-			create_pop = {
-				culture = sephardic
-				size = 6996
+				size = 2931570
 			}
 		}
 	}
 	s:STATE_BULGARIA = {
 		region_state:BUL = {
 			create_pop = {
-				culture = turkish
-				size = 210404
-			}
-			create_pop = {
 				culture = bulgarian
-				size = 660000
-			}
-			create_pop = {
-				culture = sephardic
-				size = 4004
+				size = 5166121
 			}
 		}
 	}
@@ -447,11 +335,7 @@
 		region_state:SLO = {
 			create_pop = {
 				culture = slovene
-				size = 464400
-			}
-			create_pop = {
-				culture = south_german
-				size = 21388
+				size = 1984339
 			}
 		}
 	}
@@ -459,15 +343,7 @@
 		region_state:CRO = {
 			create_pop = {
 				culture = croat
-				size = 297796
-			}
-			create_pop = {
-				culture = serb
-				size = 80000
-			}
-			create_pop = {
-				culture = north_italian
-				size = 20004
+				size = 827641
 			}
 		}
 	}
@@ -475,24 +351,7 @@
 		region_state:CRO = {
 			create_pop = {
 				culture = croat
-				size = 563592
-			}
-			create_pop = {
-				culture = czech
-				religion = catholic
-				size = 20004
-			}
-			create_pop = {
-				culture = hungarian
-				size = 28000
-			}
-			create_pop = {
-				culture = south_german
-				size = 40396
-			}
-			create_pop = {
-				culture = serb
-				size = 176000
+				size = 2720697
 			}
 		}
 	}
@@ -500,55 +359,21 @@
 		region_state:CRO = {
 			create_pop = {
 				culture = croat
-				size = 282048
-			}
-			create_pop = {
-				culture = serb
-				size = 48040
-			}
-			create_pop = {
-				culture = hungarian
-				size = 16000
-			}
-			create_pop = {
-				culture = south_german
-				size = 20140
-			}
-		}
-		region_state:SER = {
-			create_pop = {
-				culture = serb
-				size = 5
+				size = 758662
 			}
 		}
 	}
 	s:STATE_ISTRIA = {
-		region_state:SLO = {
-			create_pop = {
-				culture = north_italian
-				size = 197800
-			}
-			create_pop = {
-				culture = hungarian
-				size = 4000
-			}
-			create_pop = {
-				culture = slovene
-				size = 344504
-			}
-			create_pop = {
-				culture = south_german
-				size = 9792
-			}
-			create_pop = {
-				culture = croat
-				size = 124000
-			}
-		}
 		region_state:CRO = {
 			create_pop = {
 				culture = croat
-				size = 5
+				size = 241434
+			}
+		}
+		region_state:ITA = {
+			create_pop = {
+				culture = north_italian
+				size = 842850
 			}
 		}
 	}
@@ -556,12 +381,8 @@
 		region_state:MON = {
 			create_pop = {
 				culture = serb
-				size = 104396
-			}
-			create_pop = {
-				culture = albanian
-				size = 23000
-			}			
+				size = 604950
+			}		
 		}
 	}
 	s:STATE_NORTHERN_SERBIA = {
@@ -672,24 +493,8 @@
 	s:STATE_SKOPIA = {
 		region_state:MCD = {
 			create_pop = {
-				culture = turkish
-				size = 157296
-			}
-			create_pop = {
-				culture = sephardic
-				size = 7996
-			}
-			create_pop = {
-				culture = bulgarian
-				size = 384000
-			}
-			create_pop = {
 				culture = greek
-				size = 92000
-			}
-			create_pop = {
-				culture = albanian
-				size = 95600
+				size = 2037936
 			}
 		}
 	}
@@ -771,6 +576,45 @@
 			create_pop = {
 				culture = greek
 				size = 221996
+			}
+		}
+	}
+	#Turkey
+	s:STATE_EASTERN_THRACE = {
+		region_state:TUR = {
+			create_pop = {
+				culture = turkish
+				size = 832996
+			}
+			create_pop = {
+				culture = greek
+				size = 281992
+			}
+			create_pop = {
+				culture = north_italian
+				size = 7996
+			}
+			create_pop = {
+				culture = bulgarian
+				size = 80004
+			}
+			create_pop = {
+				culture = armenian
+				size = 67996
+			}
+			create_pop = {
+				culture = sephardic
+				size = 50004
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = north_caucasian
+				size = 6000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lacustrine_bantu
+				size = 16000
 			}
 		}
 	}

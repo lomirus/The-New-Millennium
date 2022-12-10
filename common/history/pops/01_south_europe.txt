@@ -171,7 +171,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = spanish
-				size = 2912244
+				size = 2012244
 			}
 		}
 	}
@@ -203,7 +203,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = spanish
-				size = 5150291
+				size = 4150291
 			}
 		}
 	}
@@ -211,7 +211,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = spanish
-				size = 7094284
+				size = 4378008
 			}
 		}
 	}
@@ -235,7 +235,7 @@
 		region_state:POR = {
 			create_pop = {
 				culture = portuguese
-				size = 1620800
+				size = 3986269
 			}
 		}
 	}
@@ -243,7 +243,7 @@
 		region_state:POR = {
 			create_pop = {
 				culture = portuguese
-				size = 860796
+				size = 4760169
 			}
 		}
 	}
@@ -251,7 +251,7 @@
 		region_state:POR = {
 			create_pop = {
 				culture = portuguese
-				size = 372508
+				size = 1052244
 			}
 		}
 	}
@@ -259,7 +259,7 @@
 		region_state:CPV = {
 			create_pop = {
 				culture = portuguese
-				size = 556000
+				size = 428178
 			}
 		}
 	}
@@ -268,11 +268,7 @@
 		region_state:POR = {
 			create_pop = {
 				culture = portuguese
-				size = 103532
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 24666
+				size = 260893
 			}
 		}
 	}
@@ -281,7 +277,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = spanish
-				size = 208004
+				size = 1716276
 			}
 		}
 	}
@@ -290,11 +286,7 @@
 		region_state:POR = {
 			create_pop = {
 				culture = portuguese
-				size = 103532
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 24666
+				size = 241051
 			}
 		}
 	}

@@ -404,12 +404,8 @@
 	s:STATE_CRETE = {
 		region_state:GRE = {
 			create_pop = {
-				culture = turkish
-				size = 59992
-			}
-			create_pop = {
 				culture = greek
-				size = 80000
+				size = 536504
 			}
 		}
 	}
@@ -417,23 +413,15 @@
 		region_state:GRE = {
 			create_pop = {
 				culture = greek
-				size = 80404
+				size = 177886
 			}
 		}
 	}
 	s:STATE_EAST_AEGEAN_ISLANDS = {
 		region_state:GRE = {
 			create_pop = {
-				culture = turkish
-				size = 8992
-			}
-			create_pop = {
-				culture = sephardic
-				size = 1996
-			}
-			create_pop = {
 				culture = greek
-				size = 82996
+				size = 330360
 			}
 		}
 	}
@@ -441,32 +429,15 @@
 		region_state:GRE = {
 			create_pop = {
 				culture = greek
-				size = 637592
+				size = 4889636
 			}
 		}
 	}
 	s:STATE_THESSALIA = {
 		region_state:GRE = {
 			create_pop = {
-				culture = turkish
-				size = 76208
-			}
-			create_pop = {
-				culture = albanian
-				size = 12000
-			}
-			create_pop = {
 				culture = greek
-				size = 935900
-			}
-			create_pop = {
-				culture = sephardic
-				size = 3796
-			}
-			create_pop = {
-				culture = albanian
-				religion = orthodox
-				size = 104000
+				size = 1132605
 			}
 		}
 	}
@@ -481,73 +452,24 @@
 	s:STATE_MACEDONIA = {
 		region_state:GRE = {
 			create_pop = {
-				culture = turkish
-				size = 84000
-			}
-			create_pop = {
 				culture = greek
-				size = 276000
-			}
-			create_pop = {
-				culture = bulgarian
-				size = 28000
-			}
-			create_pop = {
-				culture = sephardic
-				size = 57204
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = north_caucasian
-				size = 200
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = lacustrine_bantu
-				size = 700
+				size = 1244368
 			}
 		}
 	}
 	s:STATE_WESTERN_THRACE = {
 		region_state:GRE = {
 			create_pop = {
-				culture = turkish
-				size = 274808
-			}
-			create_pop = {
 				culture = greek
-				size = 376000
+				size = 945922
 			}
-			create_pop = {
-				culture = bulgarian
-				size = 80000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = north_caucasian
-				size = 300
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = lacustrine_bantu
-				size = 1500
-			}
-
 		}
 	}
 	s:STATE_IONIAN_ISLANDS = {
 		region_state:GRE = {
 			create_pop = {
 				culture = greek
-				size = 186404
-			}
-			create_pop = {
-				culture = british
-				size = 16
-			}
-			create_pop = {
-				culture = sephardic
-				size = 2000
+				size = 178083
 			}
 		}
 	}
@@ -555,7 +477,7 @@
 		region_state:GRE = {
 			create_pop = {
 				culture = greek
-				size = 221996
+				size = 1602744
 			}
 		}
 	}

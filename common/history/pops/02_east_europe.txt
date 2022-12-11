@@ -846,34 +846,8 @@
 	s:STATE_DELVIDEK = {
 		region_state:SER = {
 			create_pop = {
-				culture = south_german
-				size = 197200
-			}
-			create_pop = {
-				culture = hungarian
-				size = 160000
-			}
-			create_pop = {
-				culture = slovak
-				size = 40000
-			}
-			create_pop = {
 				culture = serb
-				size = 284196
-			}
-			create_pop = {
-				culture = croat
-				size = 36000
-			}
-			create_pop = {
-				culture = romanian
-				size = 44000
-			}
-		}
-		region_state:CRO = {
-			create_pop = {
-				culture = croat
-				size = 5
+				size = 2031992
 			}
 		}
 	}

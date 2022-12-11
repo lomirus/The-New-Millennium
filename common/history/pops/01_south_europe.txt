@@ -378,7 +378,7 @@
 		}
 	}
 	s:STATE_MONTENEGRO = {
-		region_state:MON = {
+		region_state:SER = {
 			create_pop = {
 				culture = serb
 				size = 604950
@@ -389,35 +389,15 @@
 		region_state:SER = {
 			create_pop = {
 				culture = serb
-				size = 809604
+				size = 2623716
 			}
 		}
 	}
 	s:STATE_SOUTHERN_SERBIA = {
 		region_state:SER = {
 			create_pop = {
-				culture = turkish
-				size = 124400
-			}
-			create_pop = {
-				culture = bosniak
-				size = 22396
-			}
-			create_pop = {
 				culture = serb
-				size = 581800
-			}
-			create_pop = {
-				culture = greek
-				size = 8000
-			}
-			create_pop = {
-				culture = albanian
-				size = 192596
-			}
-			create_pop = {
-				culture = bulgarian
-				size = 49404
+				size = 3279314
 			}
 		}
 	}

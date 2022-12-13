@@ -139,3 +139,20 @@ STATE_NORTHERN_SCHLESWIG = {
     }
     naval_exit_id = 3019
 }
+STATE_ODESA = {
+    id = 628
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x23621B" "x5F2259" "xB0E0A0" "x6BF7B8" }
+    city = "x5F2259"
+    port = "x23621B"
+    farm = "x6BF7B8"
+    mine = "xB0E0A0"
+    wood = "xB0E0A0"
+    arable_land = 66
+    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_cotton_plantations" }
+    capped_resources = {
+        bg_logging = 6
+        bg_fishing = 9
+    }
+    naval_exit_id = 3036
+}

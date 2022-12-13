@@ -3,7 +3,7 @@ POPS = {
 		region_state:POL = {
 			create_pop = {
 				culture = polish
-				size = 1013031
+				size = 925988
 			}
 		}
 	}

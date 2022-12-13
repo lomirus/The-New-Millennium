@@ -5495,13 +5495,8 @@ x83A6B2 xB82E36 }
 			country = c:MOL
 			owned_provinces = { x622837 x1E1DEF x712161 xFC9EFE x8955DF xFDE796 x79D62E x8ACA9B x53D7E0 xE7274A }
 		}
-		create_state = {
-			country = c:UKR
-			owned_provinces = { x23621B x5F2259 xB0E0A0 x6BF7B8 }
-		}
 		
 		add_homeland = romanian
-		add_homeland = ukrainian
 	}
 	s:STATE_BRYANSK = {
 		create_state = {
@@ -6166,6 +6161,12 @@ x83A6B2 xB82E36 }
 		create_state = {
 			country = c:DEN
 			owned_provinces = { x78B203 xE3C876 }
+		}
+	}
+	s:STATE_ODESA = {
+		create_state = {
+			country = c:UKR
+			owned_provinces = { x23621B x5F2259 xB0E0A0 x6BF7B8 }
 		}
 	}
 }

@@ -133,6 +133,21 @@ MCR = { # Micronesia
 	capital = STATE_EAST_MICRONESIA
 }
 
+MRI = { # Marshall Islands
+	color = { 0 57 147 }
+	country_type = recognized
+	tier = empire
+	cultures = { micronesian }
+	capital = STATE_EAST_MICRONESIA
+}
+
+KRB = { # Kiribati
+	color = { 200 16 16 }
+	country_type = recognized
+	tier = empire
+	cultures = { micronesian }
+	capital = STATE_EAST_MICRONESIA
+}
 
 VNT = { # Vanuatu
 	color = { 37 214 50 }
@@ -165,6 +180,25 @@ PLY = { # Polynesia
 	
 	cultures = { polynesian }
 	capital = STATE_TAHITI
+}
+
+TNG = { # Tonga
+	color = { 69 38 162 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	cultures = { polynesian }
+	capital = STATE_TONGA
+}
+
+TVU = { # Tuvalu
+	color = { 255 200 55 }
+	country_type = recognized
+	tier = empire
+	cultures = { balinese batak bornean dayak javan malay moluccan sumatran }
+	capital = STATE_WEST_JAVA
 }
 
 AOT = { # Aotearoa

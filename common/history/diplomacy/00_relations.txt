@@ -111,6 +111,10 @@
 			country = c:SWE
 			value = 100
 		}
+		set_relations = {
+			country = c:GBR
+			value = 100
+		}
 	}
 
 	#########

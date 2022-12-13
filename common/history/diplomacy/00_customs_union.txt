@@ -50,51 +50,7 @@
 			type = customs_union
 		}
 		create_diplomatic_pact = {
-			country = c:SLO
-			type = customs_union
-		}
-		create_diplomatic_pact = {
-			country = c:SLV
-			type = customs_union
-		}
-		create_diplomatic_pact = {
-			country = c:CRO
-			type = customs_union
-		}
-		create_diplomatic_pact = {
-			country = c:CZH
-			type = customs_union
-		}
-		create_diplomatic_pact = {
-			country = c:POL
-			type = customs_union
-		}
-		create_diplomatic_pact = {
-			country = c:ROM
-			type = customs_union
-		}
-		create_diplomatic_pact = {
-			country = c:BUL
-			type = customs_union
-		}
-		create_diplomatic_pact = {
 			country = c:GRE
-			type = customs_union
-		}
-		create_diplomatic_pact = {
-			country = c:HUN
-			type = customs_union
-		}
-		create_diplomatic_pact = {
-			country = c:LIT
-			type = customs_union
-		}
-		create_diplomatic_pact = {
-			country = c:LAT
-			type = customs_union
-		}
-		create_diplomatic_pact = {
-			country = c:EST
 			type = customs_union
 		}
 		create_diplomatic_pact = {
@@ -102,11 +58,7 @@
 			type = customs_union
 		}
 		create_diplomatic_pact = {
-			country = c:CYP
-			type = customs_union
-		}
-		create_diplomatic_pact = {
-			country = c:MLT
+			country = c:GBR
 			type = customs_union
 		}
 	}

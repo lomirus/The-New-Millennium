@@ -7,11 +7,35 @@ POPS = {
 			}
 		}
 	}
+	s:STATE_PODLASKIE = {
+		region_state:POL = {
+			create_pop = {
+				culture = polish
+				size = 1211000
+			}
+		}
+	}
 	s:STATE_KALININGRAD = {
 		region_state:RUS = {
 			create_pop = {
 				culture = russian
 				size = 1004143
+			}
+		}
+	}
+	s:STATE_ZAKARPATTIA = {
+		region_state:UKR = {
+			create_pop = {
+				culture = ukrainian
+				size = 1254614
+			}
+		}
+	}
+	s:STATE_ODESA = {
+		region_state:UKR = {
+			create_pop = {
+				culture = ukrainian
+				size = 528014
 			}
 		}
 	}

@@ -3,7 +3,7 @@
 	
 	tier = kingdom
 	
-	country_type = unrecognized
+	country_type = colonial
 	
 	cultures = { hawaiian }
 	religion = protestant
@@ -15,7 +15,7 @@
 NTU = {
 	color = { 62 92 54 }
 	
-	country_type = decentralized
+	country_type = colonial
 
 	tier = principality
 	
@@ -26,7 +26,7 @@ NTU = {
 NTO = {
 	color = { 148 185 190 }
 	
-	country_type = decentralized
+	country_type = colonial
 
 	tier = principality
 	
@@ -37,7 +37,7 @@ NTO = {
 KNK = {
 	color = { 190 173 103 }
 	
-	country_type = decentralized
+	country_type = colonial
 
 	tier = principality
 	
@@ -81,7 +81,7 @@ BLA = { # Bilua
 BLG = { # Bulungan
 	color = { 140 166 75 }
 	
-	country_type = unrecognized
+	country_type = colonial
 
 	tier = principality
 	
@@ -92,7 +92,7 @@ BLG = { # Bulungan
 KTI = { # Kutai
 	color = { 137 88 58 }
 	
-	country_type = unrecognized
+	country_type = colonial
 
 	tier = principality
 	
@@ -114,7 +114,7 @@ FJI = { # Fiji
 SKH = { # Sakhalin
 	color = { 54 102 190 }
 	
-	country_type = decentralized
+	country_type = colonial
 
 	tier = principality
 	
@@ -204,7 +204,7 @@ TVU = { # Tuvalu
 AOT = { # Aotearoa
 	color = { 47 140 191 }
 	
-	country_type = unrecognized
+	country_type = colonial
 
 	tier = empire
 	
@@ -217,7 +217,7 @@ ULR = { # Uluru
 	
 	tier = principality
 	
-	country_type = decentralized
+	country_type = colonial
 	
 	cultures = { aborigine }
 	
@@ -260,7 +260,7 @@ SAS = { # South Australia
 UNT = { # United Tribes of New Zealand
 	color = { 170 167 151 }
 	
-	country_type = unrecognized
+	country_type = colonial
 	
 	tier = principality
 	
@@ -273,7 +273,7 @@ NNG = { # Noongar
 
 	color = { 209 160 107 }
 	
-	country_type = decentralized
+	country_type = colonial
 
 	tier = principality
 	
@@ -285,7 +285,7 @@ GML = { # Gamilaraay
 
 	color = { 91 191 83 }
 	
-	country_type = decentralized
+	country_type = colonial
 
 	tier = principality
 	
@@ -341,7 +341,7 @@ DEI = {
 SAK = {
 	color = { 21  196  68 }
 	
-	country_type = unrecognized
+	country_type = colonial
 
 	tier = principality
 	
@@ -353,7 +353,7 @@ SAK = {
 PON = {
 	color = { 255 102 102 }
 	
-	country_type = unrecognized
+	country_type = colonial
 
 	tier = principality
 	
@@ -365,7 +365,7 @@ PON = {
 SMB = {
 	color = { 102  102  255 }
 	
-	country_type = unrecognized
+	country_type = colonial
 
 	tier = principality
 	
@@ -377,7 +377,7 @@ SMB = {
 JMB = {
 	color = { 223  228  192 }
 	
-	country_type = unrecognized
+	country_type = colonial
 
 	tier = principality
 	
@@ -389,7 +389,7 @@ JMB = {
 YOG = {
 	color = { 201  28  54 }
 	
-	country_type = unrecognized
+	country_type = colonial
 
 	tier = principality
 	
@@ -401,7 +401,7 @@ YOG = {
 SRK = {
 	color = { 239 51 64 }
 	
-	country_type = unrecognized
+	country_type = colonial
 
 	tier = principality
 	
@@ -413,7 +413,7 @@ SRK = {
 BTN = {
 	color = { 209  203  31 }
 	
-	country_type = unrecognized
+	country_type = colonial
 
 	tier = principality
 	
@@ -425,7 +425,7 @@ BTN = {
 SEL = {
 	color = { 249 215 61 }
 	
-	country_type = unrecognized
+	country_type = colonial
 
 	tier = principality
 	
@@ -437,7 +437,7 @@ SEL = {
 PRK = {
 	color = { 76  122  117 }
 	
-	country_type = unrecognized
+	country_type = colonial
 
 	tier = principality
 	
@@ -449,7 +449,7 @@ PRK = {
 SUL = {
 	color = { 89  164  144 }
 	
-	country_type = unrecognized
+	country_type = colonial
 
 	tier = principality
 	
@@ -461,7 +461,7 @@ SUL = {
 SLW = {
 	color = { 153 0 0 }
 	
-	country_type = decentralized
+	country_type = colonial
 	
 	tier = principality
 	
@@ -473,7 +473,7 @@ SLW = {
 TID = {
 	color = { 176  232  64 }
 	
-	country_type = unrecognized
+	country_type = colonial
 	
 	tier = principality
 	
@@ -485,7 +485,7 @@ TID = {
 STG = {
 	color = { 255 255 0 }
 	
-	country_type = unrecognized
+	country_type = colonial
 	
 	tier = principality
 	
@@ -497,7 +497,7 @@ STG = {
 BNJ = {
 	color = { 171  175  40 }
 	
-	country_type = unrecognized
+	country_type = colonial
 	
 	tier = principality
 	
@@ -521,7 +521,7 @@ IDN = {
 MGD = {
 	color = { 119  32  29 }
 	
-	country_type = unrecognized
+	country_type = colonial
 	
 	tier = principality
 	

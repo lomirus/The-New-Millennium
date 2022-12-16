@@ -194,7 +194,7 @@ JAP = {
 	tier = empire
 	
 	cultures = { japanese }
-	capital = STATE_KANSAI
+	capital = STATE_KANTO
 }
 
 ITA = {

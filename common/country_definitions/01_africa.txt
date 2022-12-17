@@ -1515,10 +1515,14 @@ SAH = { # Sahrawi
 	capital = STATE_WEST_SAHARA
 }
 
-##ADDED
+# Libya
 LBY = {
-	color = { 14 79 25 }
+	color = { 180  137  148 }
+
 	country_type = recognized
+	
 	tier = kingdom
-	cultures = { bedouin }
+
+	cultures = { teda bedouin }
+	capital = STATE_LIBYA
 }

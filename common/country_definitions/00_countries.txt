@@ -3544,10 +3544,11 @@ GLI = {
 	capital = STATE_GALICIA
 }
 
+# Palestine
 PAL = {
 	color = { 0  142  76 }
 	
-	country_type = colonial
+	country_type = recognized
 	
 	tier = principality
 	
@@ -3885,18 +3886,6 @@ SKN = {
 
 	cultures = { afro_caribbean afro_antillean }
 	capital = STATE_WEST_INDIES
-}
-
-# Libya
-LBY = {
-	color = { 180  137  148 }
-
-	country_type = recognized
-	
-	tier = kingdom
-
-	cultures = { teda bedouin }
-	capital = STATE_LIBYA
 }
 
 # Chad
@@ -4327,16 +4316,6 @@ SKR = {
 
 	cultures = { korean }
 	capital = STATE_SEOUL
-}
-
-# Palestine
-PAL = {
-	country_type = recognized
-
-	tier = principality
-
-	cultures = { mashriqi }
-	capital = STATE_PALESTINE
 }
 
 # Uzbekistan

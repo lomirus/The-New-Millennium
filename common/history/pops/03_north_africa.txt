@@ -3,7 +3,7 @@
 		region_state:EGY = {
 			create_pop = {
 				culture = misri
-				size = 39645103
+				size = 45295736
 			}
 		}
 	}
@@ -11,7 +11,7 @@
 		region_state:EGY = {
 			create_pop = {
 				culture = misri
-				size = 26416540
+				size = 12372031
 			}
 		}
 	}
@@ -19,7 +19,7 @@
 		region_state:EGY = {
 			create_pop = {
 				culture = misri
-				size = 32656522
+				size = 2248317
 			}
 		}
 	}
@@ -27,7 +27,7 @@
 		region_state:EGY = {
 			create_pop = {
 				culture = misri
-				size = 503519
+				size = 225416
 			}
 		}
 	}
@@ -35,7 +35,7 @@
 		region_state:EGY = {
 			create_pop = {
 				culture = misri
-				size = 3215255
+				size = 8032961
 			}
 		}
 	}
@@ -43,7 +43,15 @@
 		region_state:EGY = {
 			create_pop = {
 				culture = misri
-				size = 1863061
+				size = 511107
+			}
+		}
+	}
+	s:STATE_SUEZ = {
+		region_state:EGY = {
+			create_pop = {
+				culture = misri
+				size = 2485803
 			}
 		}
 	}

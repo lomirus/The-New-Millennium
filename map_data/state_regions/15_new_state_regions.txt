@@ -156,3 +156,14 @@ STATE_ODESA = {
     }
     naval_exit_id = 3036
 }
+STATE_SUEZ = {
+    id = 629
+    subsistence_building = "building_subsistence_orchards"
+    provinces = { "xC01060" "x8ED45E" }
+    traits = { }
+    city = "x8ED45E"
+    port = "xC01060"
+    arable_land = 25
+    arable_resources = { "bg_livestock_ranches" }
+    naval_exit_id = 3047
+}

@@ -2301,7 +2301,7 @@ x83A6B2 xB82E36 }
 	s:STATE_SINAI = {
 		create_state = {
 			country = c:EGY
-			owned_provinces = { xC3AB33 x7DA2DA x464B8A x76E63D xEC3DC5 x390CFC x8E5FD6 xAB924B xAF35C9 x44F1F5 xD431F9 xC01060 x8ED45E }
+			owned_provinces = { xC3AB33 x7DA2DA x464B8A x76E63D xEC3DC5 x390CFC x8E5FD6 xAB924B xAF35C9 x44F1F5 xD431F9 }
 		}
 		
 		add_homeland = misri
@@ -6213,6 +6213,12 @@ x83A6B2 xB82E36 }
 		create_state = {
 			country = c:UKR
 			owned_provinces = { x23621B x5F2259 xB0E0A0 x6BF7B8 }
+		}
+	}
+	s:STATE_SUEZ = {
+		create_state = {
+			country = c:EGY
+			owned_provinces = { xC01060 x8ED45E }
 		}
 	}
 }

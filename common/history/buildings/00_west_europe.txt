@@ -454,23 +454,11 @@
 		}
 	}
 	s:STATE_ICELAND={
-		region_state:DEN={
-			create_building={
-				building="building_fishing_wharf"
-				level=1
-				reserves=1
-				activate_production_methods={ "pm_merchant_guilds_building_fishing_wharf" "pm_unrefrigerated" "pm_simple_fishing" }
-			}
-			create_building={
-				building="building_port"
-				level=1
-				reserves=1
-				activate_production_methods={ "pm_anchorage" }
-			}
+		region_state:GRN={
 		}
 	}
 	s:STATE_GREENLAND={
-		region_state:DEN={
+		region_state:GRN={
 		}
 	}
 	s:STATE_SOUTHERN_FINLAND={

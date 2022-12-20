@@ -1,5 +1,5 @@
 ﻿COUNTRIES = {
-	c:CZE = {
+	c:CZH = {
 		effect_full_tech_research = yes
 		add_modifier = {
 			name = european_union_member

@@ -4232,7 +4232,7 @@ QAT = {
 	country_type = recognized
 	tier = principality
 	cultures = { bedouin }
-	capital = STATE_BAHRAIN
+	capital = STATE_ABU_DHABI
 }
 
 # Kuwait

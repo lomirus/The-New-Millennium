@@ -7,6 +7,25 @@
   "tags" : [],
   "relationships" : [],
   "game_custom_data" : {
-    "multiplayer_synchronized" : true
+    "multiplayer_synchronized" : true,
+    "replace_paths" : [
+      "common/character_templates",
+      "common/decisions",
+      "common/history/ai",
+      "common/history/buildings",
+      "common/history/characters",
+      "common/history/conscription",
+      "common/history/countries",
+      "common/history/diplomacy",
+      "common/history/diplomatic_plays",
+      "common/history/global",
+      "common/history/interests",
+      "common/history/pops",
+      "common/history/population",
+      "common/history/production_methods",
+      "common/history/states",
+      "common/history/trade_routes",
+      "common/journal_entries"
+    ]
   }
 }

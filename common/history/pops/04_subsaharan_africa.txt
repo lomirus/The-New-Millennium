@@ -872,64 +872,6 @@
 			}
 		}
 	}
-	s:STATE_EQUATORIA = {
-		region_state:SSD = {
-			create_pop = {
-				culture = nilotic
-				size = 80360
-			}
-			create_pop = {
-				culture = sudanese
-				size = 6000
-			}
-			create_pop = {
-				culture = luo
-				size = 50000
-			}
-			create_pop = {
-				culture = dinka
-				size = 140000
-			}
-			create_pop = {
-				culture = fur
-				size = 26000
-			}
-			create_pop = {
-				culture = nuba
-				size = 19000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = nilotic
-				size = 4000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = sudanese
-				size = 2000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = luo
-				size = 2000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = dinka
-				size = 8000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = fur
-				size = 2000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = nuba
-				size = 1000
-			}
-		}
-	}
 	s:STATE_MOCAMBIQUE = {
 		region_state:MOZ = {
 			create_pop = {

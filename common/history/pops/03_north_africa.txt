@@ -59,40 +59,21 @@
 		region_state:ERI = {
 			create_pop = {
 				culture = tigray
-				size = 6081000
+				size = 2392880
 			}
 		}
 		region_state:AWS = {
 			create_pop = {
 				culture = tigray
-				size = 988000
+				size = 742033
 			}
 		}
 	}
 	s:STATE_DONGOLA = {
 		region_state:SUD = {
 			create_pop = {
-				culture = bedouin
-				size = 156000
-			}
-			create_pop = {
 				culture = sudanese
-				size = 40004
-			}
-			create_pop = {
-				culture = beja
-				size = 82000
-			}
-			# 20-30% of Northern Sudan's population may have been enslaved in the early 19th century
-			create_pop = {
-				pop_type = slaves
-				culture = sudanese
-				size = 46000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = beja
-				size = 40000
+				size = 1513739
 			}
 		}
 	}
@@ -100,46 +81,15 @@
 		region_state:SUD = {
 			create_pop = {
 				culture = sudanese
-				size = 224396
-			}
-			create_pop = {
-				culture = nuba
-				size = 105608
-			}
-			create_pop = {
-				culture = dinka
-				size = 94004
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = nuba
-				size = 50400
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = dinka
-				size = 50400
+				size = 5774375
 			}
 		}
 	}
 	s:STATE_DARFUR = {
 		region_state:SUD = {
 			create_pop = {
-				culture = fur
-				size = 199192
-			}
-			create_pop = {
-				culture = dinka
-				size = 14400
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = dinka
-				size = 14400
-			}
-			create_pop = {
-				culture = bedouin
-				size = 8000
+				culture = sudanese
+				size = 5319945
 			}
 		}
 	}
@@ -147,42 +97,25 @@
 		region_state:SUD = {
 			create_pop = {
 				culture = sudanese
-				size = 307600
-			}
-			create_pop = {
-				culture = misri
-				size = 1992
-			}
-			create_pop = {
-				culture = nuba
-				size = 344100
-			}
-			create_pop = {
-				culture = dinka
-				size = 127896
-			}
-			create_pop = {
-				culture = bedouin
-				size = 64004
-			}
-			create_pop = {
-				culture = nuer
-				size = 60000
-			}
-			create_pop = {
-				culture = beja
-				size = 16000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = sudanese
-				size = 228000
+				size = 13690714
 			}
 		}
+	}
+	s:STATE_UPPER_NILE = {
+		region_state:SUD = {
+			create_pop = {
+				culture = sudanese
+				size = 536961
+			}
+		}
+	}
+	s:STATE_EQUATORIA = {
 		region_state:SSD = {
 			create_pop = {
-				culture = dinka
-				size = 1400000
+				culture = sudanese
+				size = 5662435
+			}
+		}
 	}
 	s:STATE_MARRAKECH = {
 		region_state:MOR = {
@@ -244,7 +177,7 @@
 		region_state:TUN = {
 			create_pop = {
 				culture = maghrebi
-				size = 11940000
+				size = 9893316
 			}
 		}
 	}
@@ -252,7 +185,7 @@
 		region_state:LBY = {
 			create_pop = {
 				culture = bedouin
-				size = 1031289
+				size = 3307346
 			}
 		}
 	}
@@ -260,7 +193,7 @@
 		region_state:LBY = {
 			create_pop = {
 				culture = bedouin
-				size = 4862140
+				size = 1109980
 			}
 		}
 	}
@@ -268,7 +201,7 @@
 		region_state:LBY = {
 			create_pop = {
 				culture = bedouin
-				size = 1065571
+				size = 737464
 			}
 		}
 	}

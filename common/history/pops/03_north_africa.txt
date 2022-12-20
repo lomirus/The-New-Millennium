@@ -153,7 +153,7 @@
 		region_state:ALD = {
 			create_pop = {
 				culture = maghrebi
-				size = 10254994
+				size = 11843569
 			}
 		}
 	}
@@ -161,7 +161,7 @@
 		region_state:ALD = {
 			create_pop = {
 				culture = maghrebi
-				size = 16985474
+				size = 9117198
 			}
 		}
 	}
@@ -169,7 +169,7 @@
 		region_state:ALD = {
 			create_pop = {
 				culture = maghrebi
-				size = 13057881
+				size = 7859509
 			}
 		}
 	}
@@ -178,6 +178,22 @@
 			create_pop = {
 				culture = maghrebi
 				size = 9893316
+			}
+		}
+	}
+	s:STATE_SAHARA = {
+		region_state:ALD = {
+			create_pop = {
+				culture = berber
+				size = 1132902
+			}
+		}
+	}
+	s:STATE_EAST_SAHARA = {
+		region_state:ALD = {
+			create_pop = {
+				culture = tuareg
+				size = 821443
 			}
 		}
 	}
@@ -205,40 +221,11 @@
 			}
 		}
 	}
-	s:STATE_SAHARA = {
-		region_state:ALD = {
-			create_pop = {
-				culture = berber
-				size = 2641520
-			}
-		}
-	}
-	s:STATE_EAST_SAHARA = {
-		region_state:ALD = {
-			create_pop = {
-				culture = tuareg
-				size = 1680131
-			}
-		}
-	}
 	s:STATE_WEST_SAHARA = {
 		region_state:SAH = {
 			create_pop = {
 				culture = berber
-				size = 20000
-			}
-			create_pop = {
-				culture = bedouin
-				size = 15000
-			}
-			create_pop = {
-				culture = maures
-				size = 8000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = bedouin
-				size = 5000
+				size = 473246
 			}
 		}
 	}
@@ -246,16 +233,7 @@
 		region_state:MAU = {
 			create_pop = {
 				culture = maures
-				size = 52000
-			}
-			create_pop = {
-				culture = haratin
-				size = 22000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = haratin
-				size = 10000
+				size = 1942000
 			}
 		}
 	}
@@ -263,20 +241,7 @@
 		region_state:MAU = {
 			create_pop = {
 				culture = maures
-				size = 36000
-			}
-			create_pop = {
-				culture = mande
-				size = 12000
-			}
-			create_pop = {
-				culture = bedouin
-				size = 4000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = mande
-				size = 4400
+				size = 753003
 			}
 		}
 	}

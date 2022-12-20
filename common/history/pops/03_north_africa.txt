@@ -121,7 +121,7 @@
 		region_state:MOR = {
 			create_pop = {
 				culture = maghrebi
-				size = 15787202
+				size = 13214629
 			}
 		}
 	}
@@ -129,7 +129,7 @@
 		region_state:MOR = {
 			create_pop = {
 				culture = maghrebi
-				size = 17212963
+				size = 5743455
 			}
 		}
 	}
@@ -137,7 +137,7 @@
 		region_state:MOR = {
 			create_pop = {
 				culture = maghrebi
-				size = 3741880
+				size = 4829475
 			}
 		}
 	}
@@ -145,7 +145,7 @@
 		region_state:MOR = {
 			create_pop = {
 				culture = maghrebi
-				size = 597955
+				size = 4766856
 			}
 		}
 	}

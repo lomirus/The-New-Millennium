@@ -519,7 +519,7 @@
 		region_state:GER = {
 			create_pop = {
 				culture = north_german
-				size = 4984233
+				size = 3984233
 			}
 		}
 	}
@@ -527,7 +527,7 @@
 		region_state:GER = {
 			create_pop = {
 				culture = north_german
-				size = 5882804
+				size = 4882804
 			}
 		}	
 	}
@@ -543,7 +543,15 @@
 		region_state:GER = {
 			create_pop = {
 				culture = north_german
-				size = 5103260
+				size = 4103260
+			}
+		}
+	}
+	s:STATE_OST_RHINE = {
+		region_state:GER = {
+			create_pop = {
+				culture = north_german
+				size = 6627215
 			}
 		}
 	}
@@ -551,7 +559,7 @@
 		region_state:GER = {
 			create_pop = {
 				culture = north_german
-				size = 5147470
+				size = 4147470
 			}
 		}
 	}
@@ -575,7 +583,7 @@
 		region_state:GER = {
 			create_pop = {
 				culture = south_german
-				size = 5807095
+				size = 4807095
 			}
 		}		
 	}
@@ -583,7 +591,7 @@
 		region_state:GER = {
 			create_pop = {
 				culture = south_german
-				size = 4946785
+				size = 4908462
 			}
 		}
 	}
@@ -591,7 +599,7 @@
 		region_state:GER = {
 			create_pop = {
 				culture = north_german
-				size = 8452163
+				size = 7452163
 			}
 		}
 	}
@@ -607,7 +615,7 @@
 		region_state:GER = {
 			create_pop = {
 				culture = north_german
-				size = 8559953
+				size = 6559953
 			}
 		}
 	}
@@ -615,7 +623,7 @@
 		region_state:GER = {
 			create_pop = {
 				culture = north_german
-				size = 6723971
+				size = 5096756
 			}
 		}
 	}
@@ -623,7 +631,7 @@
 		region_state:GER = {
 			create_pop = {
 				culture = north_german
-				size = 6856836
+				size = 5856836
 			}
 		}		
 	}
@@ -631,7 +639,7 @@
 		region_state:GER = {
 			create_pop = {
 				culture = north_german
-				size = 6068129
+				size = 5068129
 			}
 		}	
 	}

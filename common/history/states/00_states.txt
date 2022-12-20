@@ -5818,7 +5818,7 @@ x83A6B2 xB82E36 }
 	s:STATE_RHINELAND = {
 		create_state = {
 			country = c:GER
-			owned_provinces = { xD080A0 x904020 x5D7A68 x11C021 x707505 }
+			owned_provinces = { xD080A0 x904020 x5D7A68 x11C021 x707505 x90C020 }
 		}
 		
 		add_homeland = north_german
@@ -5920,7 +5920,7 @@ x83A6B2 xB82E36 }
 	s:STATE_HESSE = {
 		create_state = {
 			country = c:GER
-			owned_provinces = { x11C0A0 x1141A0 x8B7C67 x90C020 xD04121 x2248E2 xC08020 xFF1DBB x90C0A0 x1357DB x3E794B }
+			owned_provinces = { x11C0A0 x1141A0 x8B7C67 xD04121 x2248E2 xC08020 xFF1DBB x90C0A0 x1357DB x3E794B }
 		}	
 		add_homeland = north_german
 	}

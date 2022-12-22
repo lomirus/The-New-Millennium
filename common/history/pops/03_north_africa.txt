@@ -272,30 +272,8 @@
 	s:STATE_NIGER = {
 		region_state:NIG = {
 			create_pop = {
-				culture = tuareg
-				size = 104000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = tuareg
-				size = 5200
-			}
-			create_pop = {
 				culture = hausa
-				size = 45000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = hausa
-				size = 3000
-			}
-			create_pop = {
-				culture = teda
-				size = 8000
-			}
-			create_pop = {
-				culture = fulbe
-				size = 20000
+				size = 376555
 			}
 		}
 	}
@@ -303,28 +281,7 @@
 		region_state:CHA = {
 			create_pop = {
 				culture = bedouin
-				size = 84000
-			}
-			create_pop = {
-				culture = equatorial_bantu
-				size = 49000
-			}
-			create_pop = {
-				culture = kanuri
-				size = 28000
-			}
-			create_pop = {
-				culture = fur
-				size = 32060
-			}
-			create_pop = {
-				culture = tuareg
-				size = 8000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = equatorial_bantu
-				size = 15000
+				size = 1846911
 			}
 		}
 	}

@@ -255,42 +255,7 @@
 		region_state:NIG = {
 			create_pop = {
 				culture = hausa
-				size = 296400
-			}
-			create_pop = {
-				culture = dyula
-				size = 28000
-			}
-			create_pop = {
-				culture = equatorial_bantu
-				size = 167604
-			}
-			create_pop = {
-				culture = tuareg
-				size = 63996
-			}
-			create_pop = {
-				culture = songhai
-				size = 53004
-			}
-			create_pop = {
-				culture = fulbe
-				size = 42992
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = tuareg
-				size = 20000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = songhai
-				size = 15000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = fulbe
-				size = 15000
+				size = 11286110
 			}
 		}
 	}
@@ -916,25 +881,14 @@
 			create_pop = {
 				culture = chewa
 				size = 20000
+			}
+		}
 	}
 	s:STATE_WADDAI = {
 		region_state:CHA = {
 			create_pop = {
-				culture = fur
-				size = 108004
-			}
-			create_pop = {
 				culture = bedouin
-				size = 28000
-			}
-			create_pop = {
-				culture = equatorial_bantu
-				size = 63996
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = equatorial_bantu
-				size = 15000
+				size = 6412226
 			}
 		}
 		region_state:CMR = {

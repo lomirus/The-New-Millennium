@@ -207,7 +207,7 @@
 		region_state:BRD = {
 			create_pop = {
 				culture = rundi
-				size = 24020697
+				size = 6307659
 			}
 		}
 	}
@@ -433,7 +433,7 @@
 		region_state:UGA = {
 			create_pop = {
 				culture = baganda
-				size = 45740000
+				size = 24020697
 			}
 		}
 	}

@@ -186,8 +186,8 @@
 		}
 		region_state:KEN = {
 			create_pop = {
-				culture = swahili
-				size = 20000
+				culture = kikuyu
+				size = 2267030
 			}
 		}
 	}
@@ -214,47 +214,16 @@
 	s:STATE_KENYA = {
 		region_state:KEN = {
 			create_pop = {
-				culture = lacustrine_bantu
-				size = 282600
-			}
-			create_pop = {
-				culture = swahili
-				size = 44000
-			}
-			create_pop = {
 				culture = kikuyu
-				size = 192000
-			}
-			create_pop = {
-				culture = somali
-				size = 91600
-			}
-			create_pop = {
-				culture = oromo
-				religion = animist
-				size = 20000
-			}
-			create_pop = {
-				culture = maasai
-				size = 16004
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = lacustrine_bantu
-				size = 30000
+				size = 4068022
 			}
 		}
 	}
 	s:STATE_RIFT_VALLEY = {
 		region_state:KEN = {
 			create_pop = {
-				culture = maasai
-				size = 49000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = maasai
-				size = 3000
+				culture = kikuyu
+				size = 28584576
 			}
 		}
 	}

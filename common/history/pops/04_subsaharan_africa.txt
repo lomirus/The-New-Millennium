@@ -231,21 +231,7 @@
 		region_state:ETH = {
 			create_pop = {
 				culture = amhara
-				size = 99636
-			}
-			create_pop = {
-				culture = oromo
-				religion = sunni
-				size = 136004
-			}
-			create_pop = {
-				culture = somali
-				size = 485604
-			}
-			create_pop = {
-				culture = somali
-				size = 28849
-				pop_type = slaves
+				size = 14649648
 			}
 		}
 	}
@@ -253,21 +239,7 @@
 		region_state:ETH = {
 			create_pop = {
 				culture = amhara
-				size = 90000
-			}
-			create_pop = {
-				culture = oromo
-				size = 120004
-			}
-			create_pop = {
-				culture = oromo
-				religion = animist
-				size = 145600
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = amhara
-				size = 48000
+				size = 28898405
 			}
 		}
 	}
@@ -275,22 +247,7 @@
 		region_state:ETH = {
 			create_pop = {
 				culture = amhara
-				size = 522000
-			}
-			create_pop = {
-				culture = oromo
-				religion = animist
-				size = 96000
-			}
-			create_pop = {
-				culture = amhara
-				religion = jewish
-				size = 24000
-			}
-			create_pop = {
-				culture = kikuyu 
-				size = 77040
-				pop_type = slaves
+				size = 23483814
 			}
 		}
 	}

@@ -836,7 +836,7 @@ NPolitics = {
 	
 	STATE_BUREAUCRACY_BASE_COST = 10		# The base cost per incorporated state
 	STATE_BUREAUCRACY_POP_BASE_COST = 4		# The base BUR multiplier per population multiple
-	STATE_BUREAUCRACY_POP_MULTIPLE = 100000	# Number of people BUR cost is based on
+	STATE_BUREAUCRACY_POP_MULTIPLE = 200000	# Number of people BUR cost is based on
 	MINIMUM_INVESTMENT_COST = 10			# The absolute minimum cost in BUR per investment level
 	
 	RETIRE_COMMANDER_CONSEQUENCE_DURATION = 5	# Number of years during which an Interest Group will be concerned about the retirement of one of their Commanders

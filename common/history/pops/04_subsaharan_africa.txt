@@ -151,15 +151,7 @@
 		region_state:TOG = {
 			create_pop = {
 				culture = akan
-				size = 116308
-			}
-			create_pop = {
-				culture = ewe
-				size = 115996
-			}
-			create_pop = {
-				culture = mossi
-				size = 47996
+				size = 5008035
 			}
 		}
 		region_state:GHA = {
@@ -173,7 +165,7 @@
 		region_state:BEN = {
 			create_pop = {
 				culture = fon
-				size = 12120000
+				size = 6998023
 			}
 		}
 	}

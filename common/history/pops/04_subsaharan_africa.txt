@@ -463,51 +463,15 @@
 		region_state:NMB = {
 			create_pop = {
 				culture = khoisan
-				size = 56000
-			}
-			create_pop = {
-				culture = tswana
-				size = 4000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = tswana
-				size = 4000
+				size = 141093
 			}
 		}
 	}
 	s:STATE_HEREROLAND = {
 		region_state:NMB = {
 			create_pop = {
-				culture = herero
-				size = 83996
-			}
-			create_pop = {
-				culture = lunda
-				size = 2000
-			}
-			create_pop = {
-				culture = kavango_bantu
-				size = 47440
-			}
-			create_pop = {
 				culture = khoisan
-				size = 38000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = lunda
-				size = 2000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = kavango_bantu
-				size = 10000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = khoisan
-				size = 10000
+				size = 1678048
 			}
 		}
 	}
@@ -668,6 +632,12 @@
 			create_pop = {
 				culture = tswana
 				size = 2352000
+			}
+		}
+		region_state:NMB = {
+			create_pop = {
+				culture = khoisan
+				size = 141093
 			}
 		}
 	}

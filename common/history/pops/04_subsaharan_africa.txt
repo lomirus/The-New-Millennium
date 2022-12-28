@@ -498,7 +498,7 @@
 		region_state:BST = {
 			create_pop = {
 				culture = sotho
-				size = 2142000
+				size = 1998630
 			}
 		}
 	}
@@ -558,7 +558,7 @@
 		region_state:ESW = {
 			create_pop = {
 				culture = sotho
-				size = 1160000
+				size = 1030496
 			}
 		}
 	}
@@ -631,7 +631,7 @@
 		region_state:TSW = {
 			create_pop = {
 				culture = tswana
-				size = 2352000
+				size = 1726985
 			}
 		}
 		region_state:NMB = {

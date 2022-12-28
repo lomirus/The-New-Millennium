@@ -1160,12 +1160,8 @@
 	s:STATE_HOKKAIDO = {
 		region_state:JAP = {
 			create_pop = {
-				culture = ainu
-				size = 60020
-			}
-			create_pop = {
 				culture = japanese
-				size = 67862
+				size = 5763864
 			}
 		}
 	}
@@ -1173,12 +1169,7 @@
 		region_state:JAP = {
 			create_pop = {
 				culture = japanese
-				size = 2374632
-			}
-			create_pop = {
-				culture = japanese
-				religion = shinto
-				size = 917280
+				size = 8809279
 			}
 		}
 	}
@@ -1186,12 +1177,7 @@
 		region_state:JAP = {
 			create_pop = {
 				culture = japanese
-				size = 4050072
-			}
-			create_pop = {
-				culture = japanese
-				religion = shinto
-				size = 1123204
+				size = 45255976
 			}
 		}
 	}
@@ -1199,12 +1185,7 @@
 		region_state:JAP = {
 			create_pop = {
 				culture = japanese
-				size = 4127776
-			}
-			create_pop = {
-				culture = japanese
-				religion = shinto
-				size = 1745764
+				size = 21956587
 			}
 		}
 	}
@@ -1212,12 +1193,7 @@
 		region_state:JAP = {
 			create_pop = {
 				culture = japanese
-				size = 6178176
-			}
-			create_pop = {
-				culture = japanese
-				religion = shinto
-				size = 1686204
+				size = 22603472
 			}
 		}
 	}
@@ -1225,20 +1201,7 @@
 		region_state:JAP = {
 			create_pop = {
 				culture = japanese
-				size = 3170167
-			}
-			create_pop = {
-				culture = micronesian
-				size = 132
-			}
-			create_pop = {
-				culture = japanese
-				religion = shinto
-				size = 1067036
-			}
-			create_pop = {
-				culture = han # nanfaren
-				size = 18712
+				size = 14732572
 			}
 		}
 	}
@@ -1254,12 +1217,7 @@
 		region_state:JAP = {
 			create_pop = {
 				culture = japanese
-				size = 2024340
-			}
-			create_pop = {
-				culture = japanese
-				religion = shinto
-				size = 744588
+				size = 7923127
 			}
 		}
 	}
@@ -1267,12 +1225,7 @@
 		region_state:JAP = {
 			create_pop = {
 				culture = japanese
-				size = 1161416
-			}
-			create_pop = {
-				culture = japanese
-				religion = shinto
-				size = 352420
+				size = 4244426
 			}
 		}
 	}

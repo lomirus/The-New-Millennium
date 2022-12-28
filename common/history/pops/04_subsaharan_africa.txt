@@ -328,12 +328,6 @@
 		}
 	}
 	s:STATE_SOUTH_CAMEROON = {
-		region_state:EQG = {
-			create_pop = {
-				culture = fang
-				size = 684977
-			}
-		}
 		region_state:CMR = {
 			create_pop = {
 				culture = fulbe
@@ -398,32 +392,8 @@
 	s:STATE_NORTH_ANGOLA = {
 		region_state:ANG = {
 			create_pop = {
-				culture = bakongo
-				size = 176404
-			}
-			create_pop = {
-				culture = kavango_bantu
-				religion = catholic
-				size = 17396
-			}
-			create_pop = {
-				culture = kavango_bantu
-				size = 116004
-			}
-			create_pop = {
-				culture = portuguese
-				size = 3368
-			}
-			create_pop = {
-				culture = bakongo
-				religion = catholic
-				size = 160000
-			}
-		}
-		region_state:STP
-			create_pop = {
-				culture = bakongo
-				size = 10000
+				culture = ovimbundu
+				size = 5651790
 			}
 		}
 	}
@@ -431,36 +401,15 @@
 		region_state:ANG = {
 			create_pop = {
 				culture = ovimbundu
-				size = 116000
-			}
-			create_pop = {
-				culture = kavango_bantu
-				size = 116004
+				size = 9956847
 			}
 		}
 	}
 	s:STATE_EAST_ANGOLA = {
 		region_state:ANG = {
 			create_pop = {
-				culture = kavango_bantu
-				size = 90000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = kavango_bantu
-				size = 10000
-			}
-			create_pop = {
-				culture = bakongo
-				size = 8000
-			}
-			create_pop = {
-				culture = lunda
-				size = 20000
-			}
-			create_pop = {
 				culture = ovimbundu
-				size = 80200
+				size = 651267
 			}
 		}
 	}
@@ -476,13 +425,13 @@
 		region_state:GAB = {
 			create_pop = {
 				culture = fang
-				size = 2226000
+				size = 1272935
 			}
 		}
 		region_state:EQG = {
 			create_pop = {
 				culture = fang
-				size = 1199000
+				size = 684977
 			}
 		}
 	}
@@ -506,7 +455,7 @@
 		region_state:ZIM = {
 			create_pop = {
 				culture = shona
-				size = 14860000
+				size = 11834676
 			}
 		}
 	}

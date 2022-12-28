@@ -478,21 +478,8 @@
 	s:STATE_ZULULAND = {
 		region_state:SAF = {
 			create_pop = {
-				culture = zulu
-				size = 567996
-			}
-			create_pop = {
 				culture = boer
-				size = 2004
-			}
-			create_pop = {
-				culture = xhosa
-				size = 15900
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = xhosa
-				size = 16000
+				size = 9626253
 			}
 		}
 		region_state:BST = {
@@ -505,54 +492,16 @@
 	s:STATE_VRYSTAAT = {
 		region_state:SAF = {
 			create_pop = {
-				culture = sotho
-				size = 353400
-			}
-			create_pop = {
 				culture = boer
-				size = 12200
-			}
-			create_pop = {
-				culture = nguni
-				size = 10000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = nguni
-				size = 10000
+				size = 2749887
 			}
 		}
 	}
 	s:STATE_TRANSVAAL = {
 		region_state:SAF = {
 			create_pop = {
-				culture = sotho
-				size = 271804
-			}
-			create_pop = {
 				culture = boer
-				size = 10192
-			}
-			create_pop = {
-				culture = nguni
-				size = 164396
-			}
-			create_pop = {
-				culture = tswana
-				size = 68000
-			}
-			create_pop = {
-				culture = zulu
-				size = 28000
-			}
-			create_pop = {
-				culture = khoisan
-				size = 10000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = khoisan
-				size = 10000
+				size = 19999663
 			}
 		}
 		region_state:ESW = {
@@ -566,64 +515,23 @@
 		region_state:SAF = {
 			create_pop = {
 				culture = xhosa
-				size = 184400
-			}
-			create_pop = {
-				culture = british
-				size = 48000
-			}
-			create_pop = {
-				culture = nguni
-				size = 8000
-			}
-			create_pop = {
-				culture = khoisan
-				size = 27996
+				size = 6325612
 			}
 		}
 	}
 	s:STATE_CAPE_COLONY = {
 		region_state:SAF = {
 			create_pop = {
-				culture = khoisan
-				size = 163992
-			}
-			create_pop = {
-				culture = sotho
-				size = 40004
-			}
-			create_pop = {
-				culture = khoisan
-				religion = protestant
-				size = 108000
-			}
-			create_pop = {
-				culture = british
-				size = 44100
-			}
-			create_pop = {
 				culture = boer
-				size = 95508
+				size = 4195963
 			}
 		}
 	}
 	s:STATE_NORTHERN_CAPE = {
 		region_state:SAF = {
 			create_pop = {
-				culture = sotho
-				size = 32000
-			}
-			create_pop = {
-				culture = british
-				size = 4000
-			}
-			create_pop = {
 				culture = boer
-				size = 25000
-			}
-			create_pop = {
-				culture = khoisan
-				size = 12000
+				size = 6665805
 			}
 		}
 	}

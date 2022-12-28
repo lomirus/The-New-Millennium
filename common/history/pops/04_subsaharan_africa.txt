@@ -366,35 +366,16 @@
 	s:STATE_CONGO_ORIENTALE = {
 		region_state:CNG = {
 			create_pop = {
-				culture = fluvian_bantu
-				size = 433500
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = fluvian_bantu
-				size = 34500
+				culture = bakongo
+				size = 14716774
 			}
 		}
 	}
 	s:STATE_KASAI = {
 		region_state:CNG = {
 			create_pop = {
-				culture = fluvian_bantu
-				size = 720000
-			}
-			create_pop = {
-				culture = lunda
-				size = 6000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = fluvian_bantu
-				size = 72000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = lunda
-				size = 6000
+				culture = bakongo
+				size = 8688152
 			}
 		}
 	}
@@ -402,39 +383,15 @@
 		region_state:CNG = {
 			create_pop = {
 				culture = bakongo
-				size = 252000
-			}
-			create_pop = {
-				culture = bakongo
-				religion = catholic
-				size = 42000
-			}
-			create_pop = {
-				culture = fluvian_bantu
-				size = 184000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = fluvian_bantu
-				size = 20000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = bakongo
-				size = 30000
+				size = 12212921
 			}
 		}
 	}
 	s:STATE_EQUATEUR = {
 		region_state:CNG = {
 			create_pop = {
-				culture = mongo
-				size = 595200
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = mongo
-				size = 30000
+				culture = bakongo
+				size = 6468404
 			}
 		}
 	}
@@ -510,17 +467,8 @@
 	s:STATE_KATANGA = {
 		region_state:CNG = {
 			create_pop = {
-				culture = lunda
-				size = 120400
-			}
-			create_pop = {
-				culture = fluvian_bantu
-				size = 200000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = fluvian_bantu
-				size = 15604
+				culture = bakongo
+				size = 6530066
 			}
 		}
 	}

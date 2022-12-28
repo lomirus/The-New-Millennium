@@ -255,43 +255,13 @@
 		region_state:ZAM = {
 			create_pop = {
 				culture = lunda
-				size = 27204
-			}
-			create_pop = {
-				culture = sena
-				size = 16004
-			}
-			create_pop = {
-				culture = lacustrine_bantu
-				size = 148000
-			}
-			create_pop = {
-				culture = chewa
-				size = 45000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = chewa
-				size = 15000
-			}
-			create_pop = {
-				culture = nguni
-				size = 20000
+				size = 3358468
 			}
 		}
 		region_state:MLW = {
 			create_pop = {
-				culture = lunda
-				size = 100000
-			}
-			create_pop = {
 				culture = chewa
-				size = 26000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = chewa
-				size = 6000
+				size = 5941135
 			}
 		}
 	}
@@ -299,7 +269,7 @@
 		region_state:SOM = {
 			create_pop = {
 				culture = somali
-				size = 15890000
+				size = 8721465
 			}
 		}
 	}
@@ -307,23 +277,7 @@
 		region_state:MAD = {
 			create_pop = {
 				culture = malagasy
-				size = 805196
-			}
-			create_pop = {
-				culture = malagasy
-				religion = sunni
-				size = 72604
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = malagasy
-				size = 15000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = malagasy
-				religion = sunni
-				size = 5000
+				size = 7915951
 			}
 		}
 	}
@@ -331,27 +285,7 @@
 		region_state:MAD = {
 			create_pop = {
 				culture = malagasy
-				size = 900304
-			}
-			create_pop = {
-				culture = malagasy
-				religion = catholic
-				size = 5000
-			}
-			create_pop = {
-				culture = malagasy
-				religion = sunni
-				size = 97800
-			}
-			create_pop = {
-				culture = malagasy
-				religion = protestant
-				size = 12000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = malagasy
-				size = 30000
+				size = 8300480
 			}
 		}
 	}
@@ -366,47 +300,14 @@
 	s:STATE_MOCAMBIQUE = {
 		region_state:MOZ = {
 			create_pop = {
-				culture = makua
-				size = 420000
-			}
-			create_pop = {
-				culture = swahili
-				size = 19996
-			}
-			create_pop = {
-				culture = portuguese
-				size = 3996
-			}
-			create_pop = {
-				culture = sena
-				size = 96004
-			}
-			create_pop = {
-				culture = makua
-				religion = sunni
-				size = 55996
-			}
-			create_pop = {
-				culture = lacustrine_bantu
-				size = 103996
-			}
-			create_pop = {
-				culture = yao
-				size = 284300
-			}
-			create_pop = {
-				culture = chewa
-				size = 128000
-			}
-			create_pop = {
-				culture = lomwe
-				size = 60000
+				culture = shona
+				size = 8427734
 			}
 		}
 		region_state:MLW = {
 			create_pop = {
 				culture = chewa
-				size = 20000
+				size = 5288252
 			}
 		}
 	}
@@ -417,53 +318,12 @@
 				size = 6412226
 			}
 		}
-		region_state:CMR = {
-			create_pop = {
-				culture = baguirmi
-				size = 31992
-			}
-			create_pop = {
-				culture = equatorial_bantu
-				size = 32000
-			}
-			create_pop = {
-				culture = sara
-				size = 68000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = sara
-				size = 8000
-			}
-		}
 	}
 	s:STATE_NORTH_CAMEROON = {
 		region_state:CMR = {
 			create_pop = {
-				culture = equatorial_bantu
-				size = 668400
-			}
-			create_pop = {
-				culture = kanuri
-				size = 16004
-			}
-			create_pop = {
 				culture = fulbe
-				size = 101988
-			}
-			create_pop = {
-				culture = bedouin
-				size = 20000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = equatorial_bantu
-				size = 100200
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = fulbe
-				size = 10000
+				size = 8776817
 			}
 		}
 	}
@@ -471,27 +331,13 @@
 		region_state:EQG = {
 			create_pop = {
 				culture = fang
-				size = 204000
+				size = 684977
 			}
 		}
 		region_state:CMR = {
 			create_pop = {
-				culture = fang
-				size = 388000
-			}
-			create_pop = {
-				culture = equatorial_bantu
-				size = 149992
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = fang
-				size = 28000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = equatorial_bantu
-				size = 13000
+				culture = fulbe
+				size = 6314777
 			}
 		}
 	}
@@ -499,7 +345,7 @@
 		region_state:CAR = {
 			create_pop = {
 				culture = equatorial_bantu
-				size = 4830000
+				size = 3759170
 			}
 		}
 	}
@@ -507,31 +353,13 @@
 		region_state:KON = {
 			create_pop = {
 				culture = bakongo
-				size = 20200
-			}
-			create_pop = {
-				culture = fluvian_bantu
-				size = 21600
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = fluvian_bantu
-				size = 2400
+				size = 3127411
 			}
 		}
 		region_state:ANG = {
 			create_pop = {
 				culture = bakongo
-				size = 36200
-			}
-			create_pop = {
-				culture = fluvian_bantu
-				size = 19000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = fluvian_bantu
-				size = 9000
+				size = 134158
 			}
 		}
 	}
@@ -714,49 +542,15 @@
 		region_state:ZAM = {
 			create_pop = {
 				culture = lunda
-				size = 28092
-			}
-			create_pop = {
-				culture = kavango_bantu
-				size = 28000
-			}
-			create_pop = {
-				culture = chewa
-				size = 9264
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = lunda
-				size = 4000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = chewa
-				size = 3000
+				size = 6532668
 			}
 		}
 	}
 	s:STATE_ZAMBEZIA = {
 		region_state:MOZ = {
 			create_pop = {
-				culture = sena
-				size = 183996
-			}
-			create_pop = {
-				culture = portuguese
-				size = 8396
-			}
-			create_pop = {
 				culture = shona
-				size = 96004
-			}
-			create_pop = {
-				culture = lacustrine_bantu
-				size = 88000
-			}
-			create_pop = {
-				culture = swahili
-				size = 12004
+				size = 3623947
 			}
 		}
 	}
@@ -983,16 +777,8 @@
 	s:STATE_LOURENCO_MARQUES = {
 		region_state:MOZ = {
 			create_pop = {
-				culture = nguni
-				size = 333804
-			}
-			create_pop = {
 				culture = shona
-				size = 260000
-			}
-			create_pop = {
-				culture = tonga
-				size = 380000
+				size = 5716824
 			}
 		}
 	}

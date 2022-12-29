@@ -3,7 +3,7 @@
 		region_state:ELS = {
 			create_pop = {
 				culture = central_american
-				size = 6486000
+				size = 5958482
 			}
 		}
 	}
@@ -11,17 +11,13 @@
 		region_state:GUA = {
 			create_pop = {
 				culture = central_american
-				size = 10120000
-			}
-			create_pop = {
-				culture = mayan
-				size = 6744000
+				size = 11735894
 			}
 		}
 		region_state:BLZ = {
 			create_pop = {
 				culture = afro_caribbean
-				size = 398000
+				size = 240406
 			}
 		}
 	}
@@ -29,7 +25,7 @@
 		region_state:HON = {
 			create_pop = {
 				culture = central_american
-				size = 9905000
+				size = 6656725
 			}
 		}
 	}
@@ -37,7 +33,7 @@
 		region_state:NIC = {
 			create_pop = {
 				culture = central_american
-				size = 6625000
+				size = 5123222
 			}
 		}
 	}
@@ -45,7 +41,7 @@
 		region_state:COS = {
 			create_pop = {
 				culture = central_american
-				size = 5094000
+				size = 3979173
 			}
 		}
 	}
@@ -53,7 +49,7 @@
 		region_state:PNM = {
 			create_pop = {
 				culture = central_american
-				size = 4315000
+				size = 3001731
 			}
 		}
 	}
@@ -61,7 +57,7 @@
 		region_state:HAI = {
 			create_pop = {
 				culture = afro_antillean
-				size = 11400000
+				size = 8360225
 			}
 		}
 	}
@@ -69,7 +65,7 @@
 		region_state:DOM = {
 			create_pop = {
 				culture = afro_antillean
-				size = 10850000
+				size = 8540791
 			}
 		}
 	}
@@ -77,15 +73,21 @@
 		region_state:USA = {
 			create_pop = {
 				culture = caribeno
-				size = 3282000
+				size = 3827108
 			}		
 		}
 	}
 	s:STATE_BAHAMAS = {
+		region_state:BAH = {
+			create_pop = {
+				culture = afro_caribbean
+				size = 325014
+			}
+		}
 		region_state:GBR = {
 			create_pop = {
 				culture = afro_caribbean
-				size = 393000
+				size = 18744
 			}
 		}
 	}
@@ -93,73 +95,73 @@
 		region_state:FRA = {
 			create_pop = {
 				culture = afro_antillean
-				size = 775000
+				size = 756577
 			}
 		}
 		region_state:USA = {
 			create_pop = {
 				culture = afro_caribbean
-				size = 106000
+				size = 53228
 			}
 		}
 		region_state:GBR = {
 			create_pop = {
 				culture = afro_caribbean
-				size = 50000
+				size = 78048
 			}
 		}
 		region_state:NET = {
 			create_pop = {
 				culture = afro_caribbean
-				size = 43000
+				size = 79157
 			}
 		}
 		region_state:TAT = {
 			create_pop = {
 				culture = afro_caribbean
-				size = 1399000
+				size = 1262366
 			}
 		}
 		region_state:BAR = {
 			create_pop = {
 				culture = afro_caribbean
-				size = 287000
+				size = 268791
 			}
 		}
 		region_state:GND = {
 			create_pop = {
 				culture = afro_caribbean
-				size = 113000
+				size = 210770
 			}
 		}
 		region_state:SVG = {
 			create_pop = {
 				culture = afro_caribbean
-				size = 111000
+				size = 156995
 			}
 		}
 		region_state:STL = {
 			create_pop = {
 				culture = afro_caribbean
-				size = 184000
+				size = 156737
 			}
 		}
 		region_state:DMN = {
 			create_pop = {
 				culture = afro_caribbean
-				size = 72000
+				size = 71851
 			}
 		}
 		region_state:AAB = {
 			create_pop = {
 				culture = afro_caribbean
-				size = 98000	
+				size = 76202	
 			}
 		}
 		region_state:SKN = {
 			create_pop = {
 				culture = afro_caribbean
-				size = 53000
+				size = 49189
 			}
 		}
 	}
@@ -167,13 +169,13 @@
 		region_state:JAM = {
 			create_pop = {
 				culture = afro_caribbean
-				size = 2961000
+				size = 2598818
 			}
 		}
 		region_state:GBR = {
 			create_pop = { 
 				culture = afro_caribbean
-				size = 66000
+				size = 40231
 			}
 		}
 	}
@@ -181,7 +183,7 @@
 		region_state:CUB = {
 			create_pop = {
 				culture = afro_caribeno
-				size = 11330000
+				size = 11105791
 			}
 		}
 	}

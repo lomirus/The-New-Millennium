@@ -3,7 +3,7 @@
 		region_state:ECU = {
 			create_pop = {
 				culture = north_andean
-				size = 17640000
+				size = 12626507
 			}	
 		}
 	}
@@ -11,19 +11,19 @@
 		region_state:SUR = {
 			create_pop = {
 				culture = afro_caribbean
-				size = 587000
+				size = 478998
 			}
 		}
 		region_state:FRA = {
 			create_pop = {
 				culture = afro_antillean
-				size = 285700
+				size = 167140
 			}
 		}
 		region_state:GUY = {
 			create_pop = {
 				culture = afro_caribbean
-				size = 787000
+				size = 759051
 			}
 		}
 	}
@@ -31,13 +31,13 @@
 		region_state:VNZ = {
 			create_pop = {
 				culture = north_andean
-				size = 11913000
+				size = 8057499
 			}
 		}
 		region_state:NET = {
 			create_pop = {
 				culture = north_andean
-				size = 283000
+				size = 139143
 			}
 		}
 	}
@@ -45,7 +45,7 @@
 		region_state:VNZ = {
 			create_pop = {
 				culture = north_andean
-				size = 12252000
+				size = 11912037
 			}
 		}
 	}
@@ -53,7 +53,7 @@
 		region_state:VNZ = {
 			create_pop = {
 				culture = north_andean
-				size = 4020000
+				size = 4458193
 			}
 		}
 	}
@@ -458,4 +458,5 @@
 			}
 		}
 	}
+}
 }

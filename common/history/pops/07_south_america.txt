@@ -93,7 +93,7 @@
 		region_state:PEU = {
 			create_pop = {
 				culture = south_andean
-				size = 2354000
+				size = 588604
 			}
 		}
 	}
@@ -141,7 +141,7 @@
 		region_state:PEU = {
 			create_pop = {
 				culture = south_andean
-				size = 7081000
+				size = 4498338
 			}
 		}
 	}
@@ -149,7 +149,7 @@
 		region_state:PEU = {
 			create_pop = {
 				culture = south_andean
-				size = 16287000
+				size = 13542978
 			}
 		}
 	}
@@ -157,7 +157,7 @@
 		region_state:PEU = {
 			create_pop = {
 				culture = south_andean
-				size = 3605000
+				size = 4969116
 			}
 		}
 	}
@@ -165,7 +165,7 @@
 		region_state:PEU = {
 			create_pop = {
 				culture = south_andean
-				size = 3299000
+				size = 3055403
 			}
 		}
 	}

@@ -61,7 +61,7 @@
 		region_state:CLM = {
 			create_pop = {
 				culture = north_andean
-				size = 22398000
+				size = 13937842
 			}
 		}
 	}
@@ -69,7 +69,7 @@
 		region_state:CLM = {
 			create_pop = {
 				culture = amazonian
-				size = 2929000
+				size = 2709598
 			}
 		}
 	}
@@ -77,7 +77,7 @@
 		region_state:CLM = {
 			create_pop = {
 				culture = north_andean
-				size = 16361000
+				size = 11089284
 			}
 		}
 	}
@@ -85,7 +85,7 @@
 		region_state:CLM = {
 			create_pop = {
 				culture = north_andean
-				size = 9171000
+				size = 11478411
 			}
 		}
 	}

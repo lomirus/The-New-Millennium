@@ -101,7 +101,7 @@
 		region_state:CHL = {
 			create_pop = {
 				culture = south_andean
-				size = 619000
+				size = 415283
 			}
 		}
 	}
@@ -109,7 +109,7 @@
 		region_state:CHL = {
 			create_pop = {
 				culture = south_andean
-				size = 667000
+				size = 477645
 			}
 		}
 	}
@@ -173,7 +173,7 @@
 		region_state:URU = {
 			create_pop = {
 				culture = platinean
-				size = 3531000
+				size = 3292224
 			}
 		}
 	}
@@ -195,7 +195,7 @@
 		region_state:PRG = { # Alto Paraguay, Boqueron, Presidente Hayes
 			create_pop = {
 				culture = platinean
-				size = 213018
+				size = 150505
 			}
 		}
 		region_state:ARG = {
@@ -209,7 +209,7 @@
 		region_state:PRG = {
 			create_pop = {
 				culture = platinean
-				size = 7040000
+				size = 4973274
 			}
 		}
 	}
@@ -281,7 +281,7 @@
 		region_state:CHL = {
 			create_pop = {
 				culture = south_andean
-				size = 10983000
+				size = 8979100
 			}
 		}
 	}
@@ -289,7 +289,7 @@
 		region_state:CHL = {
 			create_pop = {
 				culture = south_andean
-				size = 5690000
+				size = 3898712
 			}
 		}
 	}
@@ -297,7 +297,7 @@
 		region_state:CHL = { # Magallanes y de la Antartica Chilena, Aysen, Lagos
 			create_pop = {
 				culture = south_andean
-				size = 1174000
+				size = 1581059
 			}
 		}
 		region_state:ARG = {

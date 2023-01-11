@@ -117,7 +117,7 @@
 		region_state:BOL = {
 			create_pop = {
 				culture = south_andean
-				size = 4001000
+				size = 4416690
 			}
 		}
 	}
@@ -125,7 +125,7 @@
 		region_state:BOL = {
 			create_pop = {
 				culture = south_andean
-				size = 5590000
+				size = 3257526
 			}
 		}
 	}
@@ -133,7 +133,7 @@
 		region_state:BOL = {
 			create_pop = {
 				culture = south_andean
-				size = 1453000
+				size = 558075
 			}
 		}
 	}
@@ -178,16 +178,16 @@
 		}
 	}
 	s:STATE_JUJUY = { 
-		region_state:BOL = { # Tarija
+		region_state:BOL = { # Needs to be made into its own state - Tarija
 			create_pop = {
 				culture = south_andean
-				size = 583000
+				size = 360365
 			}
 		}
 		region_state:ARG = {
 			create_pop = {
 				culture = platinean
-				size = 2209000
+				size = 797283
 			}
 		}
 	}
@@ -201,7 +201,7 @@
 		region_state:ARG = {
 			create_pop = {
 				culture = platinean
-				size = 606000
+				size = 544151
 			}
 		}
 	}
@@ -217,7 +217,7 @@
 		region_state:ARG = {
 			create_pop = {
 				culture = platinean
-				size = 20527000
+				size = 16389989
 			}		
 		}
 	}
@@ -225,7 +225,7 @@
 		region_state:ARG = {
 			create_pop = {
 				culture = patagonian
-				size = 2399000
+				size = 822151
 			}			
 		}
 	}
@@ -233,7 +233,7 @@
 		region_state:ARG = {
 			create_pop = {
 				culture = platinean
-				size = 2365000
+				size = 2630890
 			}
 		}
 	}
@@ -241,7 +241,7 @@
 		region_state:ARG = {
 			create_pop = {
 				culture = platinean
-				size = 4279000
+				size = 3416201
 			}
 		}
 	}
@@ -249,7 +249,7 @@
 		region_state:ARG = {
 			create_pop = {
 				culture = platinean
-				size = 4937000
+				size = 4040399
 			}		
 		}
 	}
@@ -257,7 +257,7 @@
 		region_state:ARG = {
 			create_pop = {
 				culture = platinean
-				size = 2398000
+				size = 1858300
 			}
 		}
 	}
@@ -265,7 +265,7 @@
 		region_state:ARG = {
 			create_pop = {
 				culture = platinean
-				size = 3288000
+				size = 2169352
 			}
 		}
 	}
@@ -273,7 +273,7 @@
 		region_state:ARG = {
 			create_pop = {
 				culture = platinean
-				size = 2201000
+				size = 4306801
 			}
 		}
 	}
@@ -303,14 +303,14 @@
 		region_state:ARG = {
 			create_pop = {
 				culture = patagonian
-				size = 173000
+				size = 98257
 		}
 	}
 	s:STATE_SOUTH_ATLANTIC_ISLANDS = {
 		region_state:GBR = {
 			create_pop = {
 				culture = british
-				size = 11360
+				size = 3164
 			}
 		}
 	}

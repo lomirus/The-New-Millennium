@@ -318,7 +318,7 @@
 		region_state:BRZ = {
 			create_pop = {
 				culture = amazonian
-				size = 906000
+				size = 567768
 			}
 		}
 	}
@@ -326,7 +326,7 @@
 		region_state:BRZ = {
 			create_pop = {
 				culture = amazonian
-				size = 4853000
+				size = 3131361
 			}
 		}		
 	}
@@ -334,7 +334,7 @@
 		region_state:BRZ = {
 			create_pop = {
 				culture = brazilian
-				size = 8222000
+				size = 5927716
 			}
 		}
 	}
@@ -342,7 +342,7 @@
 		region_state:BRZ = {
 			create_pop = {
 				culture = brazilian
-				size = 11467000
+				size = 10519126
 			}
 		}
 	}
@@ -350,7 +350,7 @@
 		region_state:BRZ = {
 			create_pop = {
 				culture = brazilian
-				size = 11598000
+				size = 6806308
 			}
 		}
 	}
@@ -358,7 +358,7 @@
 		region_state:BRZ = {
 			create_pop = {
 				culture = brazilian
-				size = 7339000
+				size = 4921172
 			}
 		}
 	}
@@ -366,7 +366,7 @@
 		region_state:BRZ = {
 			create_pop = {
 				culture = brazilian
-				size = 46214000
+				size = 34371006
 			}
 		}
 	}
@@ -374,7 +374,7 @@
 		region_state:BRZ = {
 			create_pop = {
 				culture = brazilian
-				size = 21396000
+				size = 21944421
 			}
 		}
 	}
@@ -382,7 +382,7 @@
 		region_state:BRZ = {
 			create_pop = {
 				culture = brazilian
-				size = 21471857
+				size = 14124233
 			}
 		}
 	}
@@ -390,7 +390,7 @@
 		region_state:BRZ = {
 			create_pop = {
 				culture = brazilian
-				size = 14985000
+				size = 17508002
 			}
 		}
 	}
@@ -398,7 +398,7 @@
 		region_state:BRZ = {
 			create_pop = {
 				culture = brazilian
-				size = 3561000
+				size = 3593210
 			}
 		}
 	}
@@ -406,7 +406,7 @@
 		region_state:BRZ = {
 			create_pop = {
 				culture = brazilian
-				size = 9241000
+				size = 4910815
 			}
 		}
 	}
@@ -414,7 +414,7 @@
 		region_state:BRZ = {
 			create_pop = {
 				culture = brazilian
-				size = 3289000
+				size = 3548457
 			}
 		}
 	}
@@ -422,7 +422,7 @@
 		region_state:BRZ = {
 			create_pop = {
 				culture = brazilian
-				size = 15379000
+				size = 10737381
 			}
 		}
 	}
@@ -430,7 +430,7 @@
 		region_state:BRZ = {
 			create_pop = {
 				culture = brazilian
-				size = 4060000
+				size = 4121708
 			}
 		}
 	}
@@ -438,7 +438,7 @@
 		region_state:BRZ = {
 			create_pop = {
 				culture = brazilian
-				size = 7153000
+				size = 5110826
 			}
 		}
 	}
@@ -446,7 +446,7 @@
 		region_state:BRZ = {
 			create_pop = {
 				culture = brazilian
-				size = 11908000
+				size = 9159456
 			}
 		}
 	}
@@ -454,7 +454,7 @@
 		region_state:BRZ = {
 			create_pop = {
 				culture = brazilian
-				size = 9565000
+				size = 14870754
 			}
 		}
 	}

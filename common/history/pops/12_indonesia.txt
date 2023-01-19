@@ -92,20 +92,20 @@
 		region_state:IDN = {
 			create_pop = {
 				culture = bornean
-				size = 32000
+				size = 4666506
 			}
 			create_pop = {
 				culture = dayak
-				size = 9000
+				size = 1
 			}
 			create_pop = {
 				culture = dayak
 				religion = sunni
-				size = 6700
+				size = 1
 			}
 			create_pop = {
 				culture = hakka
-				size = 26000
+				size = 1
 			}
 		}
 	}
@@ -113,25 +113,25 @@
 		region_state:IDN = {
 			create_pop = {
 				culture = bornean
-				size = 107592
+				size = 6480903
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = bornean
-				size = 30000
+				size = 1
 			}
 			create_pop = {
 				culture = dayak
-				size = 11200
+				size = 1
 			}
 			create_pop = {
 				culture = dayak
 				religion = sunni
-				size = 10000
+				size = 1
 			}
 			create_pop = {
 				culture = yue
-				size = 800
+				size = 1
 			}
 		}
 	}
@@ -139,26 +139,26 @@
 		region_state:IDN = {
 			create_pop = {
 				culture = javan
-				size = 3432000
+				size = 47072892
 			}
 			create_pop = {
 				culture = yue
-				size = 60400
+				size = 1
 			}
 			create_pop = {
 				culture = javan
 				religion = animist
-				size = 304208
+				size = 1
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = javan
 				religion = animist
-				size = 41000
+				size = 1
 			}
 			create_pop = {
 				culture = dutch
-				size = 23604
+				size = 1
 			}
 		}
 	}
@@ -166,26 +166,26 @@
 		region_state:IDN = {
 			create_pop = {
 				culture = javan
-				size = 1873792
+				size = 26245161
 			}
 			create_pop = {
 				culture = yue
-				size = 30400
+				size = 1
 			}
 			create_pop = {
 				culture = javan
 				religion = animist
-				size = 152804
+				size = 1
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = javan
 				religion = animist
-				size = 21000
+				size = 1
 			}
 			create_pop = {
 				culture = dutch
-				size = 2400
+				size = 1
 			}
 		}
 		region_state:AST = {
@@ -199,26 +199,26 @@
 		region_state:IDN = {
 			create_pop = {
 				culture = javan
-				size = 1772712
+				size = 46467910
 			}
 			create_pop = {
 				culture = yue
-				size = 20400
+				size = 1
 			}
 			create_pop = {
 				culture = javan
 				religion = animist
-				size = 288804
+				size = 1
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = javan
 				religion = animist
-				size = 19000
+				size = 1
 			}
 			create_pop = {
 				culture = dutch
-				size = 1900
+				size = 1
 			}
 		}
 	}
@@ -226,34 +226,34 @@
 		region_state:IDN = {
 			create_pop = {
 				culture = sumatran
-				size = 130123
+				size = 12797706
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sumatran
-				size = 12422
+				size = 1
 			}
 			create_pop = {
 				culture = dutch
-				size = 800
+				size = 1
 			}
 			create_pop = {
 				culture = batak
-				size = 34978
+				size = 1
 			}
 			create_pop = {
 				culture = batak
 				religion = sunni
-				size = 10928
+				size = 1
 			}
 			create_pop = {
 				culture = batak
 				religion = protestant
-				size = 5200
+				size = 1
 			}
 			create_pop = {
 				culture = yue
-				size = 5120
+				size = 1
 			}
 		}
 	}
@@ -261,34 +261,34 @@
 		region_state:IDN = {
 			create_pop = {
 				culture = sumatran
-				size = 90122
+				size = 16267467
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sumatran
-				size = 12212
+				size = 1
 			}
 			create_pop = {
 				culture = dutch
-				size = 300
+				size = 1
 			}
 			create_pop = {
 				culture = batak
-				size = 18072
+				size = 1
 			}
 			create_pop = {
 				culture = batak
 				religion = sunni
-				size = 6388
+				size = 1
 			}
 			create_pop = {
 				culture = batak
 				religion = protestant
-				size = 2200
+				size = 1
 			}
 			create_pop = {
 				culture = yue
-				size = 3400
+				size = 1
 			}
 		}
 	}
@@ -296,25 +296,25 @@
 		region_state:IDN = {
 			create_pop = {
 				culture = sumatran
-				size = 255996
+				size = 14387937
 			}
 			create_pop = {
 				culture = yue
-				size = 9800
+				size = 1
 			}
 			create_pop = {
 				culture = batak
-				size = 62309
+				size = 1
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = batak
-				size = 12000
+				size = 1
 			}
 			create_pop = {
 				culture = batak
 				religion = sunni
-				size = 14002
+				size = 1
 			}
 		}
 	}
@@ -322,7 +322,7 @@
 		region_state:IDN = {
 			create_pop = {
 				culture = melanesian
-				size = 351996
+				size = 1714951
 			}
 		}
 	}
@@ -330,31 +330,31 @@
 		region_state:IDN = {
 			create_pop = {
 				culture = moluccan
-				size = 96808
+				size = 1792464
 			}
 			create_pop = {
 				culture = dutch
-				size = 388
+				size = 1
 			}
 			create_pop = {
 				culture = moluccan
 				religion = animist
-				size = 102128
+				size = 1
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = moluccan
 				religion = animist
-				size = 32866
+				size = 1
 			}
 			create_pop = {
 				culture = melanesian
-				size = 14778
+				size = 1
 			}
 			create_pop = {
 				culture = moluccan
 				religion = protestant
-				size = 7323
+				size = 1
 			}
 		}
 	}
@@ -362,27 +362,27 @@
 		region_state:IDN = {
 			create_pop = {
 				culture = moluccan
-				size = 11000
+				size = 13954514
 			}
 			create_pop = {
 				culture = moluccan
 				religion = animist
-				size = 29263
+				size = 1
 			}
 			create_pop = {
 				culture = moluccan
 				religion = protestant
-				size = 2500
+				size = 1
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = moluccan
 				religion = animist
-				size = 6830
+				size = 1
 			}
 			create_pop = {
 				culture = dutch
-				size = 270
+				size = 1
 			}
 		}
 	}
@@ -390,7 +390,7 @@
 		region_state:PPU = {
 			create_pop = {
 				culture = melanesian
-				size = 400102
+				size = 5010131
 			}
 		}
 	}
@@ -399,31 +399,31 @@
 			create_pop = {
 				culture = balinese
 				religion = hindu
-				size = 555992
+				size = 10944943
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = balinese
-				size = 20000
+				size = 1
 			}
 			create_pop = {
 				culture = balinese
-				size = 61504
+				size = 1
 			}
 			create_pop = {
 				culture = moluccan
-				size = 144400
+				size = 1
 			}
 			create_pop = {
 				culture = moluccan
 				religion = animist
-				size = 55996
+				size = 1
 			}
 		}
 		region_state:ETM = {
 			create_pop = {
 				culture = balinese
-				size = 5
+				size = 722102
 			}
 		}
 	}

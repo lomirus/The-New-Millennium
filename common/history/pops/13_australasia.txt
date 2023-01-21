@@ -87,13 +87,9 @@
 	s:STATE_NORTH_ISLAND = {
 		region_state:NZL = {
 			create_pop = {
-				culture = maori
+				culture = australian
 				religion = protestant
-				size = 30000
-			}
-			create_pop = {
-				culture = maori
-				size = 25000
+				size = 2918886
 			}
 		}
 	}
@@ -101,11 +97,7 @@
 		region_state:NZL = {
 			create_pop = {
 				culture = australian
-				size = 428
-			}
-			create_pop = {
-				culture = maori
-				size = 12000
+				size = 941720
 			}
 		}
 	}

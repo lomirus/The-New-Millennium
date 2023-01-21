@@ -576,7 +576,7 @@
 		region_state:FJI = {
 			create_pop = {
 				culture = melanesian
-				size = 82000
+				size = 772518
 			}
 		}
 	}
@@ -584,25 +584,30 @@
 		region_state:VNT = {
 			create_pop = {
 				culture = melanesian
-				size = 92000
+				size = 191876
 			}
 		}
 	}
-
 	s:STATE_KANAK = {
 		region_state:FRA = {
 			create_pop = {
 				culture = melanesian
-				size = 56004
+				size = 222573
 			}
 		}
 	}
 
 	s:STATE_BOUGAINVILLE = {
-		region_state:HLA = {
+		region_state:BLA = {
 			create_pop = {
 				culture = melanesian
-				size = 48000
+				size = 413354
+			}
+		}
+		region_state:PPU = {
+			create_pop = {
+				culture = melanesian
+				size = 180014
 			}
 		}
 	}

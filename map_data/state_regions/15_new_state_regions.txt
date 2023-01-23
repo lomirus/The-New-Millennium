@@ -167,3 +167,12 @@ STATE_SUEZ = {
     arable_resources = { "bg_livestock_ranches" }
     naval_exit_id = 3047
 }
+STATE_AL_ANBAR = {
+    id = 630
+    subsistence_building = "building_subsistence_pastures"
+    provinces = { "x2937E4" "xA18F1A" "x01E950" "x42D850" "x30EFBE" "x68BA3E" "x2F8925" "x5ABE79" "xB77CA8" "x3698B6" "x908AEA" "x9CED6B" "xB9C9EB" "x6090E0" "x6C8E49" "x77A913" "x531544" "x203F3E" "x2164B9" "x6C593D" "xA0D060" "x0972E0" "x2EA1C0" "x1ff559" "xE8DCB1" "x87F943" "x76F2F5" "x1C3F80" "x733357" "xB78BC7" "x94ADBF" "x4CF20D" "x82B24D" "x738496" }
+    traits = { "state_trait_arabian_desert" }
+    city = "x94ADBF"
+    arable_land = 16
+    arable_resources = { "bg_livestock_ranches" }
+}

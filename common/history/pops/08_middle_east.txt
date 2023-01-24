@@ -147,42 +147,7 @@
 		region_state:SYR = {
 			create_pop = {
 				culture = mashriqi
-				religion = shiite
-				size = 25000
-			}
-			create_pop = {
-				culture = mashriqi
-				religion = shiite
-				size = 32000
-			}
-			create_pop = {
-				culture = mashriqi
-				religion = sunni
-				size = 312000
-			}
-			create_pop = {
-				culture = mashriqi
-				religion = orthodox
-				size = 148000
-			}
-			create_pop = {
-				culture = bedouin
-				religion = sunni
-				size = 8200
-			}
-			create_pop = {
-				culture = sephardic
-				size = 8000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = north_caucasian
-				size = 3000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = lacustrine_bantu
-				size = 4000
+				size = 5855915
 			}
 		}
 	}
@@ -190,67 +155,13 @@
 		region_state:SYR = {
 			create_pop = {
 				culture = mashriqi
-				religion = sunni
-				size = 172000
-			}
-			create_pop = {
-				culture = mashriqi
-				religion = shiite
-				size = 84000
-			}
-			create_pop = {
-				culture = mashriqi
-				religion = shiite
-				size = 8000
-			}
-			create_pop = {
-				culture = mashriqi
-				religion = orthodox
-				size = 32000
-			}
-			create_pop = {
-				culture = mashriqi
-				religion = orthodox
-				size = 63000
-			}
-			create_pop = {
-				culture = kurdish
-				religion = sunni
-				size = 96000
-			}
-			create_pop = {
-				culture = armenian
-				size = 29000
-			}
-			create_pop = {
-				culture = turkish
-				religion = sunni
-				size = 72000
-			}
-			create_pop = {
-				culture = sephardic
-				size = 12000
-			}
-			create_pop = {
-				culture = bedouin
-				religion = sunni
-				size = 12000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = north_caucasian
-				size = 4000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = lacustrine_bantu
-				size = 9000
+				size = 8430004
 			}
 		}
 		region_state:TUR = {
 			create_pop = {
 				culture = mashriqi
-				size = 5
+				size = 1217249
 			}
 		}
 	}
@@ -258,31 +169,7 @@
 		region_state:SYR = {
 			create_pop = {
 				culture = mashriqi
-				religion = sunni
-				size = 144000
-			}
-			create_pop = {
-				culture = assyrian
-				religion = oriental_orthodox
-				size = 43996
-			}
-			create_pop = {
-				culture = kurdish
-				size = 49600
-			}
-			create_pop = {
-				culture = bedouin
-				size = 16000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = north_caucasian
-				size = 300
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = lacustrine_bantu
-				size = 200
+				size = 2225081
 			}
 		}
 	}

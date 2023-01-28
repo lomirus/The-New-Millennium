@@ -298,6 +298,12 @@
 				size = 1058550
 			}
 		}
+		region_state:BUL = {
+			create_pop = {
+				culture = bulgarian
+				size = 800000
+			}
+		}
 	}
 	s:STATE_ALBANIA = {
 		region_state:ALB = {

@@ -744,3 +744,7 @@
  STATE_ODESA:0 "Odesa"
  STATE_SUEZ:0 "Suez Canal"
  STATE_AL_ANBAR:0 "Al-Anbar"
+ STATE_WEST_BENGAL:0 "West Bengal"
+ STATE_SIKKIM:0 "Sikkim"
+ STATE_HARYANA:0 "Haryana"
+ STATE_BHUTAN:0 "Bhutan"

@@ -17,74 +17,22 @@
 		}
 		region_state:SNP = {
 			create_pop = {
-				culture = malay
-				size = 40000
-			}
-			create_pop = {
-				culture = tamil
-				size = 2000
-			}
-			create_pop = {
 				culture = yue
-				size = 13996
-			}
-			create_pop = {
-				culture = british
-				size = 2196
+				size = 3300422
 			}
 		}
 	}
 	s:STATE_NORTH_BORNEO = {
 		region_state:MLY = {
 			create_pop = {
-				culture = dayak
-				size = 75000
-			}
-			create_pop = {
-				culture = dayak
-				religion = sunni
-				size = 12000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = dayak
-				size = 18000
-			}
-			create_pop = {
-				culture = yue
-				size = 7196
-			}
-			create_pop = {
 				culture = bornean
-				size = 100196
+				size = 4674650
 			}
 		}
 		region_state:BRU = {
 			create_pop = {
-				culture = dayak
-				size = 14000
-			}
-			create_pop = {
-				culture = moro
-				size = 3231
-			}
-			create_pop = {
-				culture = dayak
-				religion = sunni
-				size = 6000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = dayak
-				size = 2000
-			}
-			create_pop = {
 				culture = bornean
-				size = 15200
-			}
-			create_pop = {
-				culture = yue
-				size = 400
+				size = 238680
 			}
 		}
 	}
@@ -430,37 +378,8 @@
 	s:STATE_MINDANAO = {
 		region_state:PHI = {
 			create_pop = {
-				culture = moro
-				religion = sunni
-				size = 30321
-			}
-			create_pop = {
-				culture = bornean
-				religion = catholic
-				size = 4400
-			}
-			create_pop = {
 				culture = filipino
-				size = 235800
-			}
-			create_pop = {
-				culture = filipino
-				religion = animist
-				size = 18400
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = filipino
-				religion = animist
-				size = 20208
-			}
-			create_pop = {
-				culture = bornean
-				size = 24053
-			}
-			create_pop = {
-				culture = spanish
-				size = 604
+				size = 21395605
 			}
 		}
 	}
@@ -468,31 +387,7 @@
 		region_state:PHI = {
 			create_pop = {
 				culture = filipino
-				size = 1862796
-			}
-			create_pop = {
-				culture = han # nanfaren
-				religion = catholic
-				size = 8000
-			}
-			create_pop = {
-				culture = spanish
-				size = 8000
-			}
-			create_pop = {
-				culture = bornean
-				religion = catholic
-				size = 112400
-			}
-			create_pop = {
-				culture = moro
-				religion = sunni
-				size = 48000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = filipino
-				size = 50000
+				size = 43862635
 			}
 		}
 	}
@@ -500,26 +395,7 @@
 		region_state:PHI = {
 			create_pop = {
 				culture = filipino
-				size = 891604
-			}
-			create_pop = {
-				culture = spanish
-				size = 796
-			}
-			create_pop = {
-				culture = moro
-				religion = sunni
-				size = 80000
-			}
-			create_pop = {
-				culture = filipino
-				religion = animist
-				size = 40000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = filipino
-				size = 30000
+				size = 16507380
 			}
 		}
 	}

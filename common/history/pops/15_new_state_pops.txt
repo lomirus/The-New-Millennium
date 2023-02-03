@@ -39,4 +39,12 @@ POPS = {
 			}
 		}
 	}
+	s:STATE_NORTHERN_SCHLESWIG = {
+		region_state:DEN = {
+			create_pop = {
+				culture = danish
+				size = 214035
+			}
+		}
+	}
 }

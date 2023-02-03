@@ -190,6 +190,12 @@
 				size = 6174547
 			}
 		}
+		region_state:ADO = {
+			create_pop = {
+				culture = catalan
+				size = 66097
+			}
+		}
 	}
 	s:STATE_BALEARES = {
 		region_state:SPA = {

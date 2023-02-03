@@ -237,3 +237,29 @@ STATE_BHUTAN = {
         bg_logging = 9
     }
 }
+STATE_MYEIK = {
+    id = 635
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x169A4D" "x1BB979" "x3911C1" "x3F4145" "x59E0CA" "x9381F1" "x94B7B9" "x958E99" "x9F6BAC" "xB36203" "xD0EF60" "xFE3639" }
+    city = ""
+    farm = ""
+    wood = ""
+    arable_land = 20
+    arable_resources = { "bg_rice_farms" "bg_livestock_ranches" "bg_opium_plantations" "bg_tea_plantations" }
+    capped_resources = {
+
+    }
+}
+STATE_HYESAN = {
+    id = 636
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x00227F" "x08C343" "x21D080" "x4C743B" "x4FC1C9" "x701101" "x8B0207" "x8FC58D" "xA0987D" "xA0D080" "xBD9C6F" "xCF9212" "xEDB9A8" }
+    city = ""
+    farm = ""
+    wood = ""
+    arable_land = 20
+    arable_resources = { "bg_rice_farms" "bg_livestock_ranches" "bg_opium_plantations" "bg_tea_plantations" }
+    capped_resources = {
+
+    }
+}

@@ -47,7 +47,7 @@
 		region_state:DEN = {
 			create_pop = {
 				culture = danish
-				size = 1979908
+				size = 1765873
 			}
 		}
 	}

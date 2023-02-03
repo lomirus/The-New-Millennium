@@ -222,16 +222,7 @@
 		region_state:CHI = {
 			create_pop = {
 				culture = tibetan
-				size = 1820000
-			}
-			create_pop = {
-				culture = han # nanfaren
-				religion = animist
-				size = 100000
-			}
-			create_pop = {
-				culture = kachin
-				size = 54000
+				size = 2130910
 			}
 		}
 	}
@@ -239,63 +230,15 @@
 		region_state:CHI = {
 			create_pop = {
 				culture = tibetan
-				size = 824000
-			}
-			create_pop = {
-				culture = han # nanfaren
-				religion = animist
-				size = 42000
-			}
-			create_pop = {
-				culture = kachin
-				size = 24000
+				size = 568109
 			}
 		}
 	}
 	s:STATE_HIMALAYAS = {
-		region_state:HND = {
-			create_pop = {
-				culture = tibetan
-				size = 60301
-			}
-			create_pop = {
-				culture = nepali
-				size = 24091
-			}
-		}
-		region_state:CHI = {
-			create_pop = {
-				culture = tibetan
-				size = 60301
-			}
-			create_pop = {
-				culture = nepali
-				size = 24091
-			}
-		}
-		region_state:BHU = {
-			create_pop = {
-				culture = tibetan
-				size = 140396
-			}
-			create_pop = {
-				culture = nepali
-				size = 16004
-			}
-		}
 		region_state:NEP = {
 			create_pop = {
 				culture = nepali
-				size = 619204
-			}
-			create_pop = {
-				culture = bihari
-				religion = animist
-				size = 172000
-			}
-			create_pop = {
-				culture = tibetan
-				size = 192008
+				size = 24559500
 			}
 		}
 	}

@@ -3,7 +3,7 @@
 		region_state:AST = {
 			create_pop = {
 				culture = australian
-				size = 7194409
+				size = 6194409
 			}
 		}
 	}
@@ -11,7 +11,7 @@
 		region_state:AST = {
 			create_pop = {
 				culture = australian
-				size = 5431939
+				size = 4431939
 			}
 		}
 	}
@@ -36,7 +36,7 @@
 		region_state:AST = {
 			create_pop = {
 				culture = australian
-				size = 1594616
+				size = 1154616
 			}
 		}
 	}

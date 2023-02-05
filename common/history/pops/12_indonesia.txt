@@ -3,16 +3,7 @@
 		region_state:MLY = {
 			create_pop = {
 				culture = malay
-				size = 399600
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = malay
-				size = 11000
-			}
-			create_pop = {
-				culture = yue
-				size = 27404
+				size = 19335314
 			}
 		}
 		region_state:SNP = {
@@ -371,7 +362,7 @@
 		region_state:ETM = {
 			create_pop = {
 				culture = balinese
-				size = 722102
+				size = 829227
 			}
 		}
 	}
@@ -400,35 +391,37 @@
 		}
 	}
 	s:STATE_EAST_MICRONESIA = {
-		region_state:MCR = {
+		region_state:MRI = {
 			create_pop = {
 				culture = micronesian
-				size = 23840
+				size = 55000
 			}
+		}
+		region_state:KRB = {
 			create_pop = {
-				culture = spanish
-				size = 24
-			}
-			create_pop = {
-				culture = polynesian
-				size = 360
+				culture = micronesian
+				size = 88825
 			}
 		}
 	}
 
 	s:STATE_WEST_MICRONESIA = {
+		region_state:USA = {
+			create_pop = {
+				culture = yankee
+				size = 160200
+			}
+		}
+		region_state:MRI = {
+			create_pop = {
+				culture = micronesian
+				size = 5000
+			}
+		}
 		region_state:MCR = {
 			create_pop = {
 				culture = micronesian
-				size = 23840
-			}
-			create_pop = {
-				culture = spanish
-				size = 24
-			}
-			create_pop = {
-				culture = polynesian
-				size = 360
+				size = 525400
 			}
 		}
 	}
@@ -436,7 +429,7 @@
 		region_state:BLA = {
 			create_pop = {
 				culture = melanesian
-				size = 52400
+				size = 412787
 			}
 		}
 	}
@@ -468,7 +461,7 @@
 		region_state:FRA = {
 			create_pop = {
 				culture = melanesian
-				size = 222573
+				size = 222570
 			}
 		}
 	}
@@ -492,20 +485,8 @@
 		region_state:PLY = {
 			create_pop = {
 				culture = polynesian
-				size = 48604
-			}
-			create_pop = {
-				culture = polynesian
 				religion = protestant
-				size = 160
-			}
-			create_pop = {
-				culture = melanesian
-				size = 120000
-			}
-			create_pop = {
-				culture = micronesian
-				size = 1000
+				size = 235210
 			}
 		}
 		region_state:CHL = {
@@ -519,7 +500,7 @@
 		region_state:TNG = {
 			create_pop = {
 				culture = polynesian
-				size = 40000
+				size = 102650
 			}
 		}
 	}

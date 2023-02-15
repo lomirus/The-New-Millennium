@@ -1,6 +1,6 @@
 ﻿COUNTRIES = {
 	c:CYP = {
-		effect_full_tech_research = yes
+		effect_starting_technology_west_nato_tech = yes
 		
 		# Laws 
 		activate_law = law_type:law_parliamentary_republic

@@ -1,6 +1,6 @@
 ﻿COUNTRIES = {
 	c:BYE = {
-		effect_full_tech_research = yes
+		effect_starting_technology_eastern_block_tech = yes
 		
 		# Laws 
 		activate_law = law_type:law_parliamentary_republic

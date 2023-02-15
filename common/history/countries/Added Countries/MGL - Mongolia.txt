@@ -1,5 +1,5 @@
 ﻿COUNTRIES = {
-	c:KAZ = {
+	c:MGL = {
 		effect_starting_technology_eastern_block_tech = yes
 	}
 }

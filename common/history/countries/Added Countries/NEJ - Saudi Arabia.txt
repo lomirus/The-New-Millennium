@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:NEJ = {
+		effect_starting_technology_middle_east_tech = yes
+	}
+}

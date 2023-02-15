@@ -1,6 +1,6 @@
 ﻿COUNTRIES = {
 	c:SLV = {
-		effect_full_tech_research = yes
+		effect_starting_technology_eastern_block_tech = yes
 		add_modifier = {
 			name = european_union_member
 		}

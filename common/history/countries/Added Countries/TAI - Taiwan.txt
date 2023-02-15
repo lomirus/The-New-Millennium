@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:TAI = {
+		effect_starting_technology_west_nato_tech = yes
+	}
+}

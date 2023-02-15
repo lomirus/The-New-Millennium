@@ -2,7 +2,7 @@
 	c:SPA = {
 		set_next_election_date = 1836.7.13
 		
-		effect_starting_technology_tier_3_tech = yes
+		effect_starting_technology_west_nato_tech = yes
 		effect_starting_politics_conservative = yes
 
 		set_tax_level = medium

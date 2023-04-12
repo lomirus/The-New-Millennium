@@ -189,7 +189,7 @@ GRI = {
 
 JAP = {
 	color = { 194 53 60 }
-	country_type = colonial
+	country_type = recognized
 	
 	tier = empire
 	
@@ -1763,11 +1763,11 @@ CAM = {
 CHI = {
 	color = { 252 185 61 }
 	
-	country_type = colonial
+	country_type = recognized
 	
 	tier = empire
 	
-	cultures = { manchu han } 
+	cultures = { han } 
 	capital = STATE_BEIJING
 }
 

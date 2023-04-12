@@ -173,7 +173,7 @@ STATES = {
 	s:STATE_SUZHOU = {
 		create_state = {
 			country = c:CHI
-			owned_provinces = { x61F061 x6E575B x86FF7E xD0D0C0 x301000 xB01101 xE9E92E }
+			owned_provinces = { x61F061 x6E575B x86FF7E xD0D0C0 x301000 xE9E92E }
 		}
 		
 		add_homeland = han
@@ -181,7 +181,7 @@ STATES = {
 	s:STATE_SHANGHAI = {
 		create_state = {
 			country = c:CHI
-			owned_provinces = { xE9E92E }
+			owned_provinces = { xB01101 xE9E92E }
 		}
 		
 		add_homeland = han

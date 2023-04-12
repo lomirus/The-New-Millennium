@@ -1936,7 +1936,7 @@ MCH = {
 	tier = kingdom
 	
 	cultures = { manchu }
-	capital = STATE_SOUTHERN_MANCHURIA
+	capital = STATE_JILIN
 	is_named_from_capital = yes
 }
 

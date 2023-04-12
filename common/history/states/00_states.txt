@@ -4793,7 +4793,7 @@ x83A6B2 xB82E36 }
 		}
 		add_homeland = han
 	}
-	s:STATE_SHENGJING = {
+	s:STATE_LIAONING = {
 		create_state = {
 			country = c:CHI
 			owned_provinces = { 
@@ -4813,7 +4813,7 @@ x83A6B2 xB82E36 }
 		
 		add_homeland = manchu
 	}	
-	s:STATE_SOUTHERN_MANCHURIA = {
+	s:STATE_JILIN = {
 		create_state = {
 			country = c:CHI
 			owned_provinces = { 
@@ -4823,7 +4823,7 @@ x83A6B2 xB82E36 }
 		
 		add_homeland = manchu
 	}	
-	s:STATE_NORTHERN_MANCHURIA = {
+	s:STATE_HEILONGJIANG = {
 		create_state = {
 			country = c:CHI
 			owned_provinces = { 

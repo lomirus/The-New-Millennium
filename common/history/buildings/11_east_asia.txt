@@ -329,7 +329,7 @@
 			}
 		}
 	}
-	s:STATE_SOUTHERN_MANCHURIA={
+	s:STATE_JILIN={
 		region_state:CHI={
 			create_building={
 				building="building_government_administration"
@@ -363,7 +363,7 @@
 			}
 		}
 	}
-	s:STATE_NORTHERN_MANCHURIA={
+	s:STATE_HEILONGJIANG={
 		region_state:CHI={
 			create_building={
 				building="building_logging_camp"

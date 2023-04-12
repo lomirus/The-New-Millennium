@@ -461,8 +461,6 @@
  STATE_HINGGAN:1 "Monan"
  STATE_ALXA:0 "Alxa"
  STATE_GUANGXI:0 "Guangxi"
- STATE_SOUTHERN_MANCHURIA:0 "Southern Manchuria"
- STATE_NORTHERN_MANCHURIA:0 "Northern Manchuria"
  STATE_SHANDONG:0 "Shandong"
  STATE_BEIJING:0 "Beijing"
  STATE_SHANXI:0 "Shanxi"
@@ -728,7 +726,6 @@
  STATE_SINALOA:0 "Sinaloa"
  STATE_BAJIO:0 "Bajío"
  STATE_OAXACA:0 "Oaxaca"
- STATE_SHENGJING:0 "Shengjing"
  STATE_JETISY:0 "Ili"
 
 ###########NEW STATES
@@ -750,3 +747,10 @@
  STATE_BHUTAN:0 "Bhutan"
  STATE_MYEIK:0 "Myeik"
  STATE_HYESAN:0 "Hyesan"
+ STATE_HAINAN:0 "Hainan"
+ STATE_MACAU:0 "Macau"
+ STATE_HONGKONG:0 "Hongkong"
+ STATE_SHANGHAI:0 "Shanghai"
+ STATE_LIAONING:0 "Liaoning"
+ STATE_JILIN:0 "Jilin"
+ STATE_HEILONGJIANG:0 "Heilongjiang"

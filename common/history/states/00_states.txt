@@ -4739,7 +4739,7 @@ x83A6B2 xB82E36 }
 	s:STATE_SHAOZHOU = {
 		create_state = {
 			country = c:CHI
-			owned_provinces = { xA613C9 xE6F815 xF070E0 xD2A4C7 x12F28E x242A48 xF7C5ED x40D43A x07C8D6 x8D6A1E xEA597E x9C3F91 xACD8B5 x4CF229 x845B19 xEAB2D0 x12DF0F xDFB220 x31B061 xAADB15 xCD4039 xA0C90D xB03161 }
+			owned_provinces = { xA613C9 xE6F815 xF070E0 xD2A4C7 x12F28E x242A48 xF7C5ED x40D43A x07C8D6 x8D6A1E xEA597E x9C3F91 xACD8B5 x4CF229 x845B19 xEAB2D0 x12DF0F xDFB220 x31B061 xAADB15 xCD4039 xA0C90D }
 		}
 		
 		add_homeland = yue
@@ -4884,13 +4884,29 @@ x83A6B2 xB82E36 }
 	s:STATE_GUANGDONG = {
 		create_state = {
 			country = c:CHI
-			owned_provinces = { xB031E0 x7131E0 xA9B6D4 x19FD82 xB0B061 x2BDE7B x9A21B1 xC77200 x4E581C x477755 xF0B061 x85E0D4 xFEBFD5 x260389 xCB457A x3131E0 x475968 x489AB0 x2C4C48 xF98B04 x8C9358 }
+			owned_provinces = { x7131E0 xA9B6D4 x19FD82 xB0B061 x2BDE7B x9A21B1 xC77200 x4E581C x477755 xF0B061 x85E0D4 xFEBFD5 x260389 xCB457A x3131E0 x475968 x489AB0 x2C4C48 xF98B04 x8C9358 }
 		}
 
 		add_homeland = yue
 		add_homeland = min
 		add_homeland = han
 		add_homeland = miao
+	}
+	s:STATE_MACAU = {
+		create_state = {
+			country = c:CHI
+			owned_provinces = { xB031E0 }
+		}
+
+		add_homeland = yue
+	}
+	s:STATE_HONGKONG = {
+		create_state = {
+			country = c:CHI
+			owned_provinces = { xB03161 }
+		}
+		
+		add_homeland = yue
 	}
 	s:STATE_HAINAN = {
 		create_state = {

@@ -282,3 +282,39 @@ STATE_HAINAN = {
     }
     naval_exit_id = 3056
 }
+
+STATE_MACAU = {
+    id = 638
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "xB031E0" }
+    traits = { "state_trait_pearl_river" }
+    city = ""
+    port = ""
+    farm = ""
+    mine = ""
+    wood = ""
+    arable_land = 0
+    arable_resources = { "bg_rice_farms" "bg_livestock_ranches" "bg_silk_plantations" "bg_dye_plantations" "bg_tea_plantations" "bg_tobacco_plantations" "bg_banana_plantations" }
+    capped_resources = {
+        
+    }
+    naval_exit_id = 3056
+}
+
+STATE_HONGKONG = {
+    id = 639
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "xB03161" }
+    traits = { "state_trait_pearl_river" }
+    city = ""
+    port = ""
+    farm = ""
+    mine = ""
+    wood = ""
+    arable_land = 0
+    arable_resources = { "bg_rice_farms" "bg_livestock_ranches" "bg_silk_plantations" "bg_dye_plantations" "bg_tea_plantations" "bg_tobacco_plantations" "bg_banana_plantations" }
+    capped_resources = {
+
+    }
+    naval_exit_id = 3056
+}

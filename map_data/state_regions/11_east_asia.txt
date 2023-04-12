@@ -361,7 +361,7 @@ STATE_CHONGQING = {
 STATE_GUANGDONG = {
     id = 497
     subsistence_building = "building_subsistence_farms"
-    provinces = { "x156AC0" "x19FD82" "x260389" "x2BDE7B" "x2C4C48" "x30B0E0" "x3131E0" "x475968" "x477755" "x489AB0" "x4E581C" "x62BF42" "x7131E0" "x85E0D4" "x8C9358" "x9A21B1" "xA92B88" "xA9B6D4" "xB031E0" "xB0B061" "xC77200" "xCB457A" "xDC137A" "xF0B061" "xF98B04" "xFEBFD5" }
+    provinces = { "x19FD82" "x260389" "x2BDE7B" "x2C4C48" "x3131E0" "x475968" "x477755" "x489AB0" "x4E581C" "x7131E0" "x85E0D4" "x8C9358" "x9A21B1" "xA9B6D4" "xB031E0" "xB0B061" "xC77200" "xCB457A" "xF0B061" "xF98B04" "xFEBFD5" }
     traits = { "state_trait_pearl_river" }
     city = "x2BDE7B"
     port = "xB031E0"
@@ -371,8 +371,8 @@ STATE_GUANGDONG = {
     arable_land = 758
     arable_resources = { "bg_rice_farms" "bg_livestock_ranches" "bg_silk_plantations" "bg_dye_plantations" "bg_tea_plantations" "bg_tobacco_plantations" "bg_banana_plantations" }
     capped_resources = {
-        bg_logging = 8
-        bg_fishing = 14
+        bg_logging = 6
+        bg_fishing = 9
     }
     naval_exit_id = 3056
 }

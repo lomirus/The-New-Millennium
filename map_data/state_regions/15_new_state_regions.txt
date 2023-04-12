@@ -263,3 +263,22 @@ STATE_HYESAN = {
 
     }
 }
+
+STATE_HAINAN = {
+    id = 637
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x30B0E0" "xDC137A" "x62BF42" "x156AC0" "xA92B88" }
+    traits = { "state_trait_pearl_river" }
+    city = ""
+    port = ""
+    farm = ""
+    mine = ""
+    wood = ""
+    arable_land = 758
+    arable_resources = { "bg_rice_farms" "bg_livestock_ranches" "bg_silk_plantations" "bg_dye_plantations" "bg_tea_plantations" "bg_tobacco_plantations" "bg_banana_plantations" }
+    capped_resources = {
+        bg_logging = 2
+        bg_fishing = 5
+    }
+    naval_exit_id = 3056
+}

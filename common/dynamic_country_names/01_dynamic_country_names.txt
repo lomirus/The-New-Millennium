@@ -1,0 +1,3 @@
+﻿JAP = { # Japan
+	# Replace the default value to disable "Japanese Shogunate"
+}

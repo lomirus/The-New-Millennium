@@ -178,6 +178,14 @@ STATES = {
 		
 		add_homeland = han
 	}
+	s:STATE_SHANGHAI = {
+		create_state = {
+			country = c:CHI
+			owned_provinces = { xE9E92E }
+		}
+		
+		add_homeland = han
+	}
 	s:STATE_ROSTOV = {
 		create_state = {
 			country = c:RUS
